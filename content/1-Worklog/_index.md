@@ -1,10 +1,11 @@
 ---
+
 title: "Worklog"
-date: "2025-09-09"
+date: "2026-09-14"
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
----
+--------------------
 
 **On this page**, you will need to introduce your worklog. **How** did you complete it? How many weeks did you take to complete the program? **What** did you do in those weeks?
 
@@ -33,5 +34,3 @@ Typically, and as a standard, a worklog is carried out over about 3 months (thro
 **Week 11:** [Integrate Attendance Tracking with face recognition system and develop Payroll Management module](1.11-week11/)
 
 **Week 12:** [Develop Reports & Analytics module with data visualization and implement Document Management system](1.12-week12/)
-
-
