@@ -1,85 +1,89 @@
 ---
-title: "Worklog Tuần 8"
-date: "2025-09-09"
+
+title: "Nhật ký công việc Tuần 8"
+date: "2026-11-02"
 weight: 1
 chapter: false
 pre: " <b> 1.8. </b> "
----
+----------------------
 
+### Mục tiêu Tuần 8:
 
-### Mục tiêu tuần 8:
+* Xây dựng nền tảng Frontend với React 19 và Vite.
+* Triển khai cấu trúc định tuyến và các thành phần Layout.
+* Xây dựng các UI Component có khả năng tái sử dụng bằng TailwindCSS.
+* Thiết lập tầng dịch vụ API để giao tiếp với Backend.
 
-* Xây dựng nền tảng frontend với React 19 và Vite
-* Triển khai cấu trúc routing và layout components
-* Tạo các UI components tái sử dụng với TailwindCSS
-* Thiết lập lớp API service cho giao tiếp backend
+### Các công việc cần thực hiện trong tuần:
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | --- | --- | --- | --- |
-| 1 | - Thiết lập React Router cho điều hướng <br> - Tạo các layout components chính (Header, Sidebar, Footer) <br> - Triển khai cấu trúc responsive design | 25/08/2025 | 25/08/2025 | |
-| 2 | - Xây dựng các UI components tái sử dụng (Button, Input, Card, Modal) <br> - Triển khai dark/light theme toggle <br> - Tạo các components trạng thái loading và error | 26/08/2025 | 26/08/2025 | |
-| 3 | - Thiết lập lớp API service với axios/fetch <br> - Tạo cấu hình API endpoints <br> - Triển khai error handling và response interceptors | 27/08/2025 | 27/08/2025 | |
-| 4 | - Xây dựng trang Dashboard với các widgets tổng quan <br> - Tạo cấu trúc menu điều hướng <br> - Triển khai page routing và protected routes | 28/08/2025 | 28/08/2025 | |
-| 5 | - Thêm Framer Motion animations vào components <br> - Tích hợp Lucide React icons trong toàn bộ UI <br> - Hoàn thiện UI/UX với các transitions mượt mà | 29/08/2025 | 29/08/2025 | |
-| 6 | - Kiểm thử responsive design trên nhiều thiết bị <br> - Tối ưu hiệu suất component <br> - Tài liệu hóa cách sử dụng component và props | 30/08/2025 | 30/08/2025 | |
+| Ngày | Công việc                                                                                                                                                                                           | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ------------------ |
+| 1    | - Thiết lập React Router để điều hướng <br> - Tạo các thành phần Layout chính (Header, Sidebar, Footer) <br> - Triển khai cấu trúc thiết kế Responsive                                              | 02/11/2026   | 02/11/2026      |                    |
+| 2    | - Xây dựng các UI Component có thể tái sử dụng (Button, Input, Card, Modal) <br> - Triển khai chức năng chuyển đổi giao diện sáng/tối <br> - Tạo các Component hiển thị trạng thái Loading và Error | 03/11/2026   | 03/11/2026      |                    |
+| 3    | - Thiết lập tầng dịch vụ API bằng axios/fetch <br> - Tạo cấu hình các API Endpoint <br> - Triển khai xử lý lỗi và Response Interceptors                                                             | 04/11/2026   | 04/11/2026      |                    |
+| 4    | - Xây dựng trang Dashboard với các Widget tổng quan <br> - Tạo cấu trúc Menu điều hướng <br> - Triển khai định tuyến trang và Protected Routes                                                      | 05/11/2026   | 05/11/2026      |                    |
+| 5    | - Thêm hiệu ứng Framer Motion vào các Component <br> - Tích hợp biểu tượng Lucide React trên toàn bộ giao diện <br> - Hoàn thiện UI/UX với các hiệu ứng chuyển đổi mượt mà                          | 06/11/2026   | 06/11/2026      |                    |
+| 6    | - Kiểm tra thiết kế Responsive trên nhiều thiết bị <br> - Tối ưu hiệu suất Component <br> - Tài liệu hóa cách sử dụng Component và Props                                                            | 07/11/2026   | 07/11/2026      |                    |
 
+### Kết quả đạt được trong Tuần 8:
 
-### Kết quả đạt được tuần 8:
+Đã xây dựng thành công nền tảng Frontend với kiến trúc React hiện đại:
 
-Đã thiết lập thành công nền tảng frontend với kiến trúc React hiện đại:
+* Triển khai hệ thống định tuyến toàn diện:
 
-* Triển khai hệ thống routing toàn diện:
-  * Cấu hình React Router với nested routes
-  * Tạo các protected route components cho xác thực
-  * Thiết lập navigation guards và route transitions
-  * Triển khai dynamic route parameters
+  * Cấu hình React Router với các Nested Routes.
+  * Tạo Protected Route Component để kiểm soát xác thực người dùng.
+  * Thiết lập Navigation Guard và hiệu ứng chuyển đổi giữa các Route.
+  * Triển khai Dynamic Route Parameters.
 
-* Xây dựng cấu trúc layout hoàn chỉnh:
-  * Component Header responsive với user menu
-  * Sidebar navigation có thể thu gọn với chỉ báo trạng thái active
-  * Component Footer với thông tin hệ thống
-  * Thiết kế responsive cho mobile với hamburger menu
+* Xây dựng hoàn chỉnh cấu trúc Layout:
 
-* Phát triển thư viện UI component tái sử dụng:
-  * Component Button với nhiều biến thể (primary, secondary, danger)
-  * Components Input với các trạng thái validation
-  * Components Card để hiển thị nội dung
-  * Components Modal/Dialog cho overlays
-  * Loading spinners và skeleton screens
-  * Error boundary và error display components
+  * Component Header Responsive với User Menu.
+  * Sidebar điều hướng có thể thu gọn và hiển thị trạng thái Active.
+  * Component Footer hiển thị thông tin hệ thống.
+  * Thiết kế Responsive cho thiết bị di động với Hamburger Menu.
 
-* Thiết lập lớp giao tiếp API:
-  * Tạo API service tập trung với axios
-  * Triển khai request/response interceptors
-  * Thiết lập cấu hình environment variables
-  * Xây dựng error handling và retry mechanisms
-  * Tạo API endpoint constants và types
+* Phát triển thư viện UI Component có khả năng tái sử dụng:
+
+  * Button Component với nhiều biến thể (primary, secondary, danger).
+  * Input Component với các trạng thái Validation.
+  * Card Component dùng để hiển thị nội dung.
+  * Modal/Dialog Component cho các lớp Overlay.
+  * Loading Spinner và Skeleton Screen.
+  * Error Boundary và Component hiển thị lỗi.
+
+* Thiết lập tầng giao tiếp API:
+
+  * Tạo API Service tập trung sử dụng axios.
+  * Triển khai Request/Response Interceptors.
+  * Thiết lập cấu hình Environment Variables.
+  * Xây dựng cơ chế xử lý lỗi và Retry.
+  * Tạo các hằng số và kiểu dữ liệu cho API Endpoint.
 
 * Thiết kế và triển khai Dashboard:
-  * Overview widgets hiển thị các metrics chính
-  * Quick access cards cho các tính năng chính
-  * Recent activity feed
-  * Placeholders cho visualization thống kê
 
-* Tích hợp các cải tiến UI hiện đại:
-  * Framer Motion animations cho chuyển đổi trang mượt mà
-  * Lucide React icons trong toàn bộ ứng dụng
-  * Chức năng dark/light theme toggle
-  * Responsive breakpoints cho mobile, tablet, desktop
+  * Các Widget tổng quan hiển thị những chỉ số quan trọng.
+  * Các Card truy cập nhanh đến những chức năng chính.
+  * Feed hiển thị hoạt động gần đây.
+  * Tạo các khu vực hiển thị dữ liệu thống kê.
+
+* Tích hợp các cải tiến giao diện hiện đại:
+
+  * Sử dụng Framer Motion để tạo hiệu ứng chuyển trang mượt mà.
+  * Tích hợp Lucide React Icons trên toàn bộ ứng dụng.
+  * Triển khai chức năng chuyển đổi giao diện Dark/Light.
+  * Thiết lập Responsive Breakpoints cho Mobile, Tablet và Desktop.
 
 * Tối ưu hiệu suất ứng dụng:
-  * Code splitting với React.lazy()
-  * Component memoization khi phù hợp
-  * Tối ưu bundle size với Vite
-  * Triển khai loading states cho UX tốt hơn
 
-* Tạo tài liệu toàn diện:
-  * Hướng dẫn sử dụng component
-  * Mẫu tích hợp API
-  * Quy ước styling với TailwindCSS
-  * Tài liệu quy trình phát triển
+  * Code Splitting bằng React.lazy().
+  * Sử dụng Component Memoization khi phù hợp.
+  * Tối ưu kích thước Bundle với Vite.
+  * Triển khai Loading State nhằm cải thiện trải nghiệm người dùng.
 
+* Tạo tài liệu hướng dẫn đầy đủ:
 
-
-
+  * Hướng dẫn sử dụng các Component.
+  * Quy chuẩn tích hợp API.
+  * Quy ước Styling với TailwindCSS.
+  * Tài liệu hóa quy trình phát triển.
