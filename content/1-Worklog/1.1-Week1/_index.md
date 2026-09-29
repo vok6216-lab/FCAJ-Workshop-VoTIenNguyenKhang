@@ -1,6 +1,6 @@
 ---
 title: "Week 1 Worklog"
-date: "2025-09-09"
+date: "2026-09-14"
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -15,11 +15,11 @@ pre: " <b> 1.1. </b> "
 
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Set Up account <br> - Read and take note of internship unit rules and regulations                                                                                                                    | 08/9/2025  | 09/9/2025       |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP <br>                              | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Set Up account <br> - Read and take note of internship unit rules and regulations                                                                                                                    | 14/09/2026 | 14/09/2026      |
+| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 15/09/2026 | 15/09/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 16/09/2026 | 16/09/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP <br>                              | 17/09/2026 | 18/09/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 18/09/2026 | 18/09/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 1 Achievements:
 
