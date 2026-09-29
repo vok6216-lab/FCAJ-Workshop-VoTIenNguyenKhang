@@ -1,6 +1,6 @@
 ---
 title : "Cấu hình API Gateway"
-date : 2025-09-09
+date : 2026-14-09
 weight : 5
 chapter : false
 pre : " <b> 5.5. </b> "
