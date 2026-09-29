@@ -1,82 +1,78 @@
 ---
-title: "Worklog Tuần 6"
-date: "2025-09-09"
+
+title: "Nhật ký công việc Tuần 6"
+date: "2026-10-19"
 weight: 1
 chapter: false
 pre: " <b> 1.6. </b> "
----
+----------------------
 
+### Mục tiêu Tuần 6:
 
-### Mục tiêu tuần 6:
+* Nắm vững các khái niệm cơ bản và nâng cao về cơ sở dữ liệu.
+* Phân biệt rõ OLTP và OLAP, RDBMS và NoSQL.
+* Thành thạo các dịch vụ cơ sở dữ liệu của AWS: RDS, Aurora, Redshift, ElastiCache.
 
-* Nắm vững các khái niệm database cơ bản và nâng cao
-* Phân biệt rõ ràng OLTP vs OLAP, RDBMS vs NoSQL
-* Thành thạo các dịch vụ database AWS: RDS, Aurora, Redshift, ElastiCache
+### Các công việc cần thực hiện trong tuần:
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | --- | --- | --- | --- |
-| 1–2 | Khái niệm DB cơ bản: PK, FK, Index, Partition, Query Plan, Buffer, Log, Session | 01–02/09/2025 | 02/09/2025 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | RDBMS vs NoSQL • OLTP vs OLAP | 03/09/2025 | 03/09/2025 | |
-| 4 | Amazon RDS & Amazon Aurora (tương thích MySQL/PostgreSQL) | 04/09/2025 | 04/09/2025 | |
-| 5 | Amazon Redshift – Managed Data Warehouse & OLAP | 05/09/2025 | 05/09/2025 | |
-| 6 | Amazon ElastiCache (Redis & Memcached) | 06/09/2025 | 06/09/2025 | |
+| Ngày | Công việc                                                                                         | Ngày bắt đầu     | Ngày hoàn thành | Tài liệu tham khảo                      |
+| ---- | ------------------------------------------------------------------------------------------------- | ---------------- | --------------- | --------------------------------------- |
+| 1–2  | Các khái niệm cơ bản về cơ sở dữ liệu: PK, FK, Index, Partition, Query Plan, Buffer, Log, Session | 19/10–20/10/2026 | 20/10/2026      | https://cloudjourney.awsstudygroup.com/ |
+| 3    | RDBMS và NoSQL • OLTP và OLAP                                                                     | 21/10/2026       | 21/10/2026      |                                         |
+| 4    | Amazon RDS & Amazon Aurora (tương thích MySQL/PostgreSQL)                                         | 22/10/2026       | 22/10/2026      |                                         |
+| 5    | Amazon Redshift – Kho dữ liệu được quản lý (Managed Data Warehouse) & OLAP                        | 23/10/2026       | 23/10/2026      |                                         |
+| 6    | Amazon ElastiCache (Redis & Memcached)                                                            | 24/10/2026       | 24/10/2026      |                                         |
 
+### Kết quả đạt được trong Tuần 6:
 
-### Kết quả đạt được tuần 6:
+Đã hoàn thành tất cả các mục tiêu của Tuần 6 và đạt được những kiến thức, kỹ năng chính sau:
 
-Đã hoàn thành tất cả mục tiêu tuần 6 với trình độ vững chắc về:
+* Nắm vững các khái niệm cơ bản về cơ sở dữ liệu: Primary Key, Foreign Key, Index, Partitioning, Execution Plan, Buffer Pool, Transaction Log và Session.
 
-* Khái niệm database cơ bản: Primary Key, Foreign Key, Index, Partitioning, Execution Plan, Buffer Pool, Transaction Log, Session
+* Phân biệt rõ:
 
-* Phân biệt rõ ràng giữa:
+  * **RDBMS** (cơ sở dữ liệu quan hệ, SQL, ACID) và **NoSQL** (schema linh hoạt, eventual consistency).
 
-  * RDBMS (quan hệ, SQL, ACID) vs NoSQL (schema linh hoạt, eventual consistency)
-
-  * OLTP (giao dịch nhanh, row-based) vs OLAP (phân tích phức tạp, columnar, dữ liệu lịch sử)
+  * **OLTP** (giao dịch nhanh, xử lý theo từng dòng) và **OLAP** (phân tích phức tạp, lưu trữ theo cột, dữ liệu lịch sử).
 
 * **Amazon RDS**:
 
-  * Database quan hệ được quản lý hoàn toàn (MySQL, PostgreSQL, MariaDB, Oracle, SQL Server, Aurora)
+  * Dịch vụ cơ sở dữ liệu quan hệ được quản lý hoàn toàn, hỗ trợ MySQL, PostgreSQL, MariaDB, Oracle, SQL Server và Aurora.
 
-  * Backup tự động, Read Replicas, Multi-AZ failover, storage autoscaling, mã hóa at rest & in transit
+  * Hỗ trợ Automated Backups, Read Replicas, Multi-AZ Failover, tự động mở rộng dung lượng lưu trữ và mã hóa dữ liệu khi lưu trữ cũng như khi truyền tải.
 
 * **Amazon Aurora**:
 
-  * Database quan hệ cloud-native với tương thích MySQL & PostgreSQL
+  * Cơ sở dữ liệu quan hệ Cloud-native tương thích với MySQL và PostgreSQL.
 
-  * Lớp lưu trữ cách mạng cho hiệu suất đọc/ghi đồng thời cao
+  * Sử dụng lớp lưu trữ phân tán hiệu năng cao, được thiết kế để xử lý workload đọc/ghi đồng thời lớn.
 
-  * Tính năng độc đáo: Backtrack, Aurora Clones, Global Database, Multi-Master
+  * Các tính năng nổi bật: Backtrack, Aurora Clones, Global Database và Multi-Master.
 
 * **Amazon Redshift**:
 
-  * Data warehouse quy mô petabyte được quản lý hoàn toàn tối ưu cho OLAP
+  * Kho dữ liệu được quản lý hoàn toàn ở quy mô Petabyte, được tối ưu cho OLAP.
 
-  * Kiến trúc MPP + lưu trữ columnar
+  * Sử dụng kiến trúc MPP kết hợp với Columnar Storage.
 
-  * Leader + Compute nodes, Redshift Spectrum, concurrency scaling
+  * Bao gồm Leader Node và Compute Nodes, cùng các tính năng Redshift Spectrum và Concurrency Scaling.
 
 * **Amazon ElastiCache**:
 
-  * Redis & Memcached được quản lý
+  * Dịch vụ Redis và Memcached được AWS quản lý.
 
-  * Phát hiện và thay thế lỗi tự động
+  * Hỗ trợ tự động phát hiện và thay thế khi xảy ra lỗi.
 
-  * Được sử dụng như lớp cache phía trước database để giảm tải workload OLTP đọc nhiều
+  * Được sử dụng như một lớp Cache phía trước Database nhằm giảm tải cho các workload OLTP có nhiều thao tác đọc.
 
-  * Redis được ưa chuộng cho ứng dụng mới
+  * Redis được ưu tiên sử dụng cho nhiều trường hợp ứng dụng mới.
 
-Đã hoàn thành thực hành:
+### Hoàn thành phần thực hành:
 
-* Triển khai RDS Multi-AZ + Read Replica
+* Triển khai RDS Multi-AZ + Read Replica.
 
-* Tạo Aurora cluster với Global Database
+* Tạo Aurora Cluster với Global Database.
 
-* Xây dựng Redshift cluster và chạy các truy vấn phân tích
+* Xây dựng Redshift Cluster và thực hiện các truy vấn phân tích.
 
-* Triển khai ElastiCache Redis và tích hợp với ứng dụng mẫu
-
-
-
-
+* Triển khai ElastiCache Redis và tích hợp với ứng dụng mẫu.
