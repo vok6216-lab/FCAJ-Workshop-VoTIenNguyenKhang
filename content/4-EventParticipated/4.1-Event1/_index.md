@@ -1,132 +1,150 @@
 ---
+
 title: "Event 1"
-date: 2026-14-09
+date: 2026-09-26
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
+----------------------
+
+# Buildrathon Kickoff: Code the Future with CMC Global
+
+## 1. Event Name
+
+**Buildrathon Kickoff: Code the Future with CMC Global**
+
+Buildrathon Kickoff is the opening event of Buildrathon 2026, bringing together technology enthusiasts, AWS learners, and members of the technology community. The event focused on Cloud Computing, Generative AI, AI Agents, and the development of practical technology solutions using AWS.
+
 ---
 
-# Summary Report: "GenAI-powered App-DB Modernization workshop"
+## 2. Time
 
-### Event Objectives
+* **Date:** September 26, 2026
+* **Time:** 09:00 AM – 12:00 PM
+* **Timezone:** GMT+7
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+The event took place on Saturday, September 26, 2026.
 
-### Speakers
+---
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+## 3. Location
 
-### Key Highlights
+* **Venue:** Bitexco Financial Tower
+* **Address:** 2 Hai Trieu Street, Ho Chi Minh City, Vietnam
+* **Floor:** 26th Floor
 
-#### Identifying the drawbacks of legacy application architecture
+The event was held in person at Bitexco Financial Tower.
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+---
 
-#### Transitioning to modern application architecture – Microservices
+## 4. Participation Role
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+I participated in **Buildrathon Kickoff: Code the Future with CMC Global** as a **participant and learner in the First Cloud Journey (FCAJ) program**.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+During the event, I attended the Buildrathon introduction sessions, listened to presentations and discussions from technology professionals, and learned more about Cloud Computing, Generative AI, AI Agents, and AWS technologies.
 
-#### Domain-Driven Design (DDD)
+I also had the opportunity to connect with other participants, exchange ideas, and gain a better understanding of the upcoming Buildrathon activities and challenges.
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+---
 
-#### Event-Driven Architecture
+## 5. Main Knowledge and Skills Gained
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+### 5.1. Overview of Buildrathon
 
-#### Compute Evolution
+The Kickoff session introduced the **Buildrathon Challenge**, its objectives, activities, and overall direction. I gained a clearer understanding of how a technology idea can be developed into a practical solution through a structured development process.
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+### 5.2. AWS Cloud and Generative AI
 
-#### Amazon Q Developer
+The event provided an overview of **AWS Cloud, Generative AI, and AI Agents**. I learned more about how AWS services can be combined to develop modern AI-powered applications.
 
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+These topics helped me understand the role of cloud infrastructure in supporting scalable and intelligent applications.
 
-### Key Takeaways
+### 5.3. Building a Career in Cloud & AI
 
-#### Design Mindset
+The **"Building a Career in Cloud & AI"** talk provided valuable insights into career opportunities and current trends in Cloud Computing and Artificial Intelligence.
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+The speakers shared practical perspectives on how companies are adopting AWS and AI technologies to solve business problems and improve their operations.
 
-#### Technical Architecture
+### 5.4. Q&A Session
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+The Q&A session gave participants the opportunity to discuss topics such as:
 
-#### Modernization Strategy
+* AWS Cloud
+* Generative AI
+* AI Agents
+* AWS Certifications
+* Career development
+* Buildrathon Challenge
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+Through the discussion, I gained additional perspectives from experienced professionals working in the technology industry.
 
-### Applying to Work
+### 5.5. Hands-on – AI Agent Challenge
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+One of the most interesting activities was the **AI Agent Challenge**.
 
-### Event Experience
+Through this activity, I was introduced to concepts such as:
 
-Attending the **"GenAI-powered App-DB Modernization"** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* Knowledge Bases
+* AI Agents
+* AWS services for AI applications
 
-#### Learning from highly skilled speakers
+The hands-on activity helped me better understand how Generative AI technologies can be applied to practical problems instead of being used only for theoretical learning.
 
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+### 5.6. Mock Interview
 
-#### Hands-on technical exposure
+The event also included a **Mock Interview** activity for technology-related positions such as:
 
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+* Cloud Engineer
+* DevOps Engineer
+* Data Engineer
+* Solution Architect
 
-#### Leveraging modern tools
+This activity provided an opportunity to practice technical knowledge, communication skills, AWS fundamentals, and interview preparation.
 
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
+---
 
-#### Networking and discussions
+## 6. Check-in Photo as Proof of Participation
 
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
+The following photo is my check-in photo at **Buildrathon Kickoff: Code the Future with CMC Global**, demonstrating my participation in the event.
 
-#### Lessons learned
+![Buildrathon Kickoff - Check-in](/images/4-EventParticipated/4.1-Event1/buildrathon-kickoff-checkin.jpg)
 
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+> **Check-in Evidence:** The photo clearly shows my face and the event environment, providing evidence of my participation in the Buildrathon Kickoff event.
 
-#### Some event photos
+---
 
-![AWS GameDay Scoreboard](/images/4-EventParticipated/4.1-Event1/gameday-scoreboard.jpg)
+## 7. Lessons Learned and Personal Contribution
 
-![Workshop Session](/images/4-EventParticipated/4.1-Event1/workshop-session.jpg)
+### Lessons Learned
 
-![Awards Ceremony](/images/4-EventParticipated/4.1-Event1/awards-ceremony.jpg)
+After participating in Buildrathon Kickoff, I gained several important lessons:
 
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+* **Cloud and AI are becoming increasingly connected:** AWS Cloud provides the infrastructure needed to build and deploy scalable AI applications.
+* **AI Agents should solve practical problems:** AI can be used not only to generate content but also to build systems that assist users and automate workflows.
+* **Hands-on practice is essential:** The AI Agent Challenge helped me understand how theoretical knowledge can be applied to real-world scenarios.
+* **RAG and Knowledge Bases are important for Generative AI:** These technologies can help AI applications work with specific data and knowledge sources.
+* **Communication and teamwork are essential:** Technology projects require not only technical skills but also effective communication and collaboration.
+* **Career awareness:** I gained a better understanding of career opportunities in fields such as Cloud Engineering, DevOps, Data Engineering, and Solution Architecture.
+
+### Personal Contribution
+
+During the event, I actively:
+
+* Participated in the event activities and sessions.
+* Listened to and took notes on important topics related to AWS Cloud and Generative AI.
+* Communicated and networked with other participants.
+* Explored AI Agent concepts, Prompt Engineering, RAG, and Knowledge Bases.
+* Participated in practical activities and discussions.
+* Exchanged ideas about applying Cloud and AI technologies to real-world problems.
+
+Through these activities, I was able to connect the knowledge gained from the FCAJ program with a more practical environment and prepare myself for the upcoming Buildrathon activities.
+
+---
+
+## Conclusion
+
+**Buildrathon Kickoff: Code the Future with CMC Global** was a valuable learning experience during my Cloud and AI journey. The event helped me gain a better understanding of Buildrathon 2026, AWS Cloud, Generative AI, and AI Agents while also providing opportunities to connect with other members of the technology community.
+
+More importantly, I realized that learning Cloud and AI should not be limited to theoretical knowledge. **Hands-on practice, product development, teamwork, communication, and solving real-world problems** are essential for developing practical skills and preparing for a future career in technology.
