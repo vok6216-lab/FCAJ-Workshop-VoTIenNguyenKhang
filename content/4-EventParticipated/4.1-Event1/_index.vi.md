@@ -1,127 +1,105 @@
----
+[---
+
 title: "Event 1"
 date: 2026-14-09
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
+----------------------
+
+# Buildrathon Kickoff
+
+## 1. Tên sự kiện
+
+**Buildrathon Kickoff**
+
+Buildrathon Kickoff là sự kiện khởi động chương trình Buildrathon, nhằm giới thiệu tổng quan về chương trình, định hướng hoạt động, chủ đề thử thách và cách thức tham gia. Đây cũng là cơ hội để các thành viên làm quen với nhau, tìm hiểu mục tiêu của chương trình và chuẩn bị cho các hoạt động phát triển dự án trong những giai đoạn tiếp theo.
+
 ---
 
-# Bài thu hoạch "GenAI-powered App-DB Modernization workshop"
+## 2. Thời gian
 
-### Mục Đích Của Sự Kiện
+* **Thời gian:** [Điền thời gian diễn ra sự kiện]
+* **Ngày tham gia:** [Điền ngày]
 
-- Chia sẻ best practices trong thiết kế ứng dụng hiện đại
-- Giới thiệu phương pháp DDD và event-driven architecture
-- Hướng dẫn lựa chọn compute services phù hợp
-- Giới thiệu công cụ AI hỗ trợ development lifecycle
+---
 
-### Danh Sách Diễn Giả
+## 3. Địa điểm
 
-- **Jignesh Shah** - Director, Open Source Databases
-- **Erica Liu** - Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** - Assc. Specialist SA, Serverless Amazon Web Services
+* **Địa điểm:** [Điền địa điểm tổ chức]
+* **Hình thức:** [Offline / Online / Hybrid]
 
-### Nội Dung Nổi Bật
+---
 
-#### Đưa ra các ảnh hưởng tiêu cực của kiến trúc ứng dụng cũ
+## 4. Vai trò tham gia
 
-- Thời gian release sản phẩm lâu → Mất doanh thu/bỏ lỡ cơ hội
-- Hoạt động kém hiệu quả → Mất năng suất, tốn kém chi phí
-- Không tuân thủ các quy định về bảo mật → Mất an ninh, uy tín
+Tôi tham gia **Buildrathon Kickoff** với vai trò là **người tham gia / học viên** trong chương trình.
 
-#### Chuyển đổi sang kiến trúc ứng dụng mới - Microservice Architecture
+Trong sự kiện, tôi tham gia các hoạt động giới thiệu chương trình, lắng nghe phần chia sẻ từ ban tổ chức và các diễn giả, tìm hiểu về mục tiêu, nội dung cũng như định hướng của Buildrathon.
 
-Chuyển đổi thành hệ thống modular – từng chức năng là một **dịch vụ độc lập** giao tiếp với nhau qua **sự kiện** với 3 trụ cột cốt lõi:
+Bên cạnh đó, tôi cũng có cơ hội giao lưu với các thành viên khác, trao đổi về ý tưởng và chuẩn bị cho quá trình tham gia các hoạt động tiếp theo của chương trình.
 
-- **Queue Management**: Xử lý tác vụ bất đồng bộ
-- **Caching Strategy:** Tối ưu performance
-- **Message Handling:** Giao tiếp linh hoạt giữa services
+---
 
-#### Domain-Driven Design (DDD)
+## 5. Nội dung chính tiếp thu
 
-- **Phương pháp 4 bước**: Xác định domain events → sắp xếp timeline → identify actors → xác định bounded contexts
-- **Case study bookstore**: Minh họa cách áp dụng DDD thực tế
-- **Context mapping**: 7 patterns tích hợp bounded contexts
+### Tổng quan về Buildrathon
 
-#### Event-Driven Architecture
+Thông qua buổi Kickoff, tôi hiểu rõ hơn về mục tiêu, cấu trúc và định hướng của chương trình Buildrathon. Sự kiện giúp tôi có cái nhìn tổng quan về những hoạt động sẽ được triển khai cũng như những yêu cầu cần chuẩn bị trong quá trình tham gia.
 
-- **3 patterns tích hợp**: Publish/Subscribe, Point-to-point, Streaming
-- **Lợi ích**: Loose coupling, scalability, resilience
-- **So sánh sync vs async**: Hiểu rõ trade-offs (sự đánh đổi)
+### Định hướng phát triển dự án
 
-#### Compute Evolution
+Một trong những nội dung quan trọng tôi tiếp thu được là cách tiếp cận một bài toán từ **ý tưởng đến sản phẩm**. Việc xác định vấn đề thực tế, phân tích nhu cầu người dùng và xây dựng giải pháp phù hợp là những bước quan trọng trước khi bắt đầu phát triển sản phẩm.
 
-- **Shared Responsibility Model**: Từ EC2 → ECS → Fargate → Lambda
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value
-- **Functions vs Containers**: Criteria lựa chọn phù hợp
+### Làm việc nhóm
 
-#### Amazon Q Developer
+Sự kiện cũng nhấn mạnh tầm quan trọng của việc **teamwork** trong các dự án công nghệ. Mỗi thành viên cần có trách nhiệm rõ ràng, chủ động trao đổi thông tin và phối hợp với các thành viên khác để đạt được mục tiêu chung.
 
-- **SDLC automation**: Từ planning đến maintenance
-- **Code transformation**: Java upgrade, .NET modernization
-- **AWS Transform agents**: VMware, Mainframe, .NET migration
+### Công nghệ và đổi mới
 
-### Những Gì Học Được
+Tôi có thêm góc nhìn về việc sử dụng các công nghệ hiện đại để giải quyết các bài toán thực tế. Đặc biệt, việc kết hợp giữa **cloud computing, AI và các công cụ phát triển phần mềm** có thể hỗ trợ quá trình xây dựng và triển khai sản phẩm hiệu quả hơn.
 
-#### Tư Duy Thiết Kế
+### Tư duy giải quyết vấn đề
 
-- **Business-first approach**: Luôn bắt đầu từ business domain, không phải technology
-- **Ubiquitous language**: Importance của common vocabulary giữa business và tech teams
-- **Bounded contexts**: Cách identify và manage complexity trong large systems
+Buildrathon Kickoff giúp tôi nhận ra rằng việc phát triển một sản phẩm không chỉ tập trung vào công nghệ mà cần bắt đầu từ **vấn đề thực tế**. Một giải pháp tốt cần cân bằng giữa nhu cầu người dùng, tính khả thi về kỹ thuật và khả năng triển khai thực tế.
 
-#### Kiến Trúc Kỹ Thuật
+---
 
-- **Event storming technique**: Phương pháp thực tế để mô hình hóa quy trình kinh doanh
-- Sử dụng **Event-driven communication** thay vì synchronous calls
-- **Integration patterns**: Hiểu khi nào dùng sync, async, pub/sub, streaming
-- **Compute spectrum**: Criteria chọn từ VM → containers → serverless
+## 6. Hình ảnh check-in rõ mặt chứng minh tham gia
 
-#### Chiến Lược Hiện Đại Hóa
+Hình ảnh dưới đây là bằng chứng tôi tham gia sự kiện **Buildrathon Kickoff**.
 
-- **Phased approach**: Không rush, phải có roadmap rõ ràng
-- **7Rs framework**: Nhiều con đường khác nhau tùy thuộc vào đặc điểm của mỗi ứng dụng
-- **ROI measurement**: Cost reduction + business agility
+![Buildrathon Kickoff - Check-in](/images/4-EventParticipated/4.1-Event1/buildrathon-kickoff-checkin.jpg)
 
-### Ứng Dụng Vào Công Việc
+> **Lưu ý:** Hình ảnh check-in cần thể hiện rõ khuôn mặt của tôi và có thể nhận biết được bối cảnh hoặc thông tin liên quan đến sự kiện Buildrathon Kickoff.
 
-- **Áp dụng DDD** cho project hiện tại: Event storming sessions với business team
-- **Refactor microservices**: Sử dụng bounded contexts để identify service boundaries
-- **Implement event-driven patterns**: Thay thế một số sync calls bằng async messaging
-- **Serverless adoption**: Pilot AWS Lambda cho một số use cases phù hợp
-- **Try Amazon Q Developer**: Integrate vào development workflow để boost productivity
+---
 
-### Trải nghiệm trong event
+## 7. Bài học rút ra
 
-Tham gia workshop **"GenAI-powered App-DB Modernization"** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về cách hiện đại hóa ứng dụng và cơ sở dữ liệu bằng các phương pháp và công cụ hiện đại. Một số trải nghiệm nổi bật:
+Sau khi tham gia Buildrathon Kickoff, tôi rút ra một số bài học quan trọng:
 
-#### Học hỏi từ các diễn giả có chuyên môn cao
-- Các diễn giả đến từ AWS và các tổ chức công nghệ lớn đã chia sẻ **best practices** trong thiết kế ứng dụng hiện đại.
-- Qua các case study thực tế, tôi hiểu rõ hơn cách áp dụng **Domain-Driven Design (DDD)** và **Event-Driven Architecture** vào các project lớn.
+* **Bắt đầu từ vấn đề thực tế:** Trước khi lựa chọn công nghệ, cần xác định rõ vấn đề mà sản phẩm muốn giải quyết.
+* **Làm việc nhóm hiệu quả:** Phân chia nhiệm vụ rõ ràng và thường xuyên trao đổi giúp nhóm làm việc hiệu quả hơn.
+* **Chủ động học hỏi:** Các chương trình như Buildrathon tạo cơ hội để tôi tiếp cận những công nghệ và phương pháp phát triển sản phẩm mới.
+* **Tư duy sản phẩm:** Không chỉ quan tâm đến việc code, cần chú ý đến trải nghiệm người dùng, tính khả thi và giá trị mà sản phẩm mang lại.
+* **Quản lý thời gian:** Khi làm việc trong một chương trình có thời gian giới hạn, việc lập kế hoạch và ưu tiên công việc là rất quan trọng.
 
-#### Trải nghiệm kỹ thuật thực tế
-- Tham gia các phiên trình bày về **event storming** giúp tôi hình dung cách **mô hình hóa quy trình kinh doanh** thành các domain events.
-- Học cách **phân tách microservices** và xác định **bounded contexts** để quản lý sự phức tạp của hệ thống lớn.
-- Hiểu rõ trade-offs giữa **synchronous và asynchronous communication** cũng như các pattern tích hợp như **pub/sub, point-to-point, streaming**.
+---
 
-#### Ứng dụng công cụ hiện đại
-- Trực tiếp tìm hiểu về **Amazon Q Developer**, công cụ AI hỗ trợ SDLC từ lập kế hoạch đến maintenance.
-- Học cách **tự động hóa code transformation** và pilot serverless với **AWS Lambda**, từ đó nâng cao năng suất phát triển.
+## 8. Đóng góp cá nhân
 
-#### Kết nối và trao đổi
-- Workshop tạo cơ hội trao đổi trực tiếp với các chuyên gia, đồng nghiệp và team business, giúp **nâng cao ngôn ngữ chung (ubiquitous language)** giữa business và tech.
-- Qua các ví dụ thực tế, tôi nhận ra tầm quan trọng của **business-first approach**, luôn bắt đầu từ nhu cầu kinh doanh thay vì chỉ tập trung vào công nghệ.
+Trong quá trình tham gia sự kiện, tôi chủ động lắng nghe các phần trình bày, ghi chú những nội dung quan trọng và trao đổi với các thành viên khác.
 
-#### Bài học rút ra
-- Việc áp dụng DDD và event-driven patterns giúp giảm **coupling**, tăng **scalability** và **resilience** cho hệ thống.
-- Chiến lược hiện đại hóa cần **phased approach** và đo lường **ROI**, không nên vội vàng chuyển đổi toàn bộ hệ thống.
-- Các công cụ AI như Amazon Q Developer có thể **boost productivity** nếu được tích hợp vào workflow phát triển hiện tại.
+Tôi cũng đóng góp bằng cách chia sẻ ý tưởng, trao đổi về hướng phát triển dự án và tìm hiểu thêm về các công nghệ có thể áp dụng trong quá trình xây dựng sản phẩm.
 
-#### Một số hình ảnh khi tham gia sự kiện
+Thông qua hoạt động này, tôi có cơ hội cải thiện kỹ năng **teamwork, communication, problem-solving** và hiểu rõ hơn về quy trình biến một ý tưởng thành một sản phẩm công nghệ.
 
-![AWS GameDay Scoreboard](/images/4-EventParticipated/4.1-Event1/gameday-scoreboard.jpg)
+---
 
-![Workshop Session](/images/4-EventParticipated/4.1-Event1/workshop-session.jpg)
+## Kết luận
 
-![Awards Ceremony](/images/4-EventParticipated/4.1-Event1/awards-ceremony.jpg)
+Tham gia **Buildrathon Kickoff** giúp tôi có được cái nhìn tổng quan về chương trình cũng như hiểu rõ hơn về cách tiếp cận và phát triển một dự án công nghệ theo hướng thực tế.
 
-> Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp em thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
+Đây cũng là cơ hội để tôi kết nối với những người có cùng mối quan tâm về công nghệ, rèn luyện khả năng làm việc nhóm và chuẩn bị tốt hơn cho các hoạt động tiếp theo của Buildrathon.
+](https://luma.com/8fe9vvps)
