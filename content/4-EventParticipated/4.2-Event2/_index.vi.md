@@ -1,229 +1,156 @@
 ---
 title: "Event 2"
-date: 2025-10-03
+date: 2026-09-29
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Bài thu hoạch "AWS GenAI Builders Club"
+# AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City
 
-### Mục Đích Của Sự Kiện
+## 1. Tên sự kiện
 
-Sự kiện nhằm khám phá AI-driven development lifecycle (AI DLC) và giới thiệu các công cụ phát triển hiện đại được hỗ trợ bởi AI, tập trung vào cách AI đang biến đổi các thực hành phát triển phần mềm và cách các nhà phát triển có thể tích hợp AI hiệu quả vào quy trình làm việc của họ.
+**AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City**
 
-### Danh Sách Diễn Giả
+AWS Cloud and AI Day Hanoi 2026 là một sự kiện công nghệ tập trung vào các chủ đề **Cloud Computing, Artificial Intelligence, Generative AI và Agentic AI**.
 
-1. **Toàn Huỳnh** - Senior Specialist SA (Solutions Architect)
+Đối với người tham gia tại Thành phố Hồ Chí Minh, chương trình được tổ chức dưới hình thức **Watch Party tại AWS Office**, cho phép người tham gia theo dõi các phiên nội dung chính từ Hà Nội, đồng thời tham gia các hoạt động trao đổi và giao lưu tại TP. Hồ Chí Minh.
 
-   - Chủ đề: AI-driven Development Lifecycle
+---
 
-2. **My Nguyễn** - Senior Prototyping Architect
+## 2. Thời gian
 
-   - Chủ đề: Kiro - The AI IDE for Prototype to Production
+- **Ngày:** 29/09/2026
+- **Thời gian:** Trong thời gian diễn ra chương trình AWS Cloud and AI Day
+- **Múi giờ:** GMT+7
 
-### Nội Dung Nổi Bật
+Sự kiện được tổ chức vào thứ Ba, ngày 29/09/2026.
 
-#### AI-Driven Development Lifecycle (bởi Toàn Huỳnh)
+---
 
-**Sự Tiến Hóa của AI trong Phát Triển Phần Mềm:**
+## 3. Địa điểm
 
-- 2023: AI giúp các nhà phát triển viết code nhanh hơn
+- **Địa điểm Watch Party:** AWS Office, Thành phố Hồ Chí Minh
+- **Thành phố:** Thành phố Hồ Chí Minh, Việt Nam
+- **Địa điểm sự kiện chính:** JW Marriott Hotel Hanoi, Hà Nội, Việt Nam
 
-- 2024: AI tạo ra các đoạn code lớn hơn và trả lời nhanh hơn
+Sự kiện chính được tổ chức tại JW Marriott Hotel Hanoi, trong khi người tham gia tại Thành phố Hồ Chí Minh tham dự chương trình Watch Party tại AWS Office.
 
-- 2025: AI hoàn thành các nhiệm vụ phát triển từ đầu đến cuối với con người trong vòng lặp
+---
 
-**Nguyên Tắc Chính:**
+## 4. Vai trò tham gia
 
-- AI DLC không chỉ là một công cụ - đó là một phương pháp luận
+Tôi tham gia **AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City** với vai trò là **người tham gia và học viên trong chương trình First Cloud Journey (FCAJ)**.
 
-- AI nên được sử dụng cho pair-programming, không phải là giải pháp độc lập
+Trong sự kiện, tôi tham gia Watch Party tại AWS Office ở Thành phố Hồ Chí Minh, theo dõi các phiên nội dung được phát trực tiếp từ sự kiện chính tại Hà Nội và tìm hiểu về các chủ đề liên quan đến Cloud Computing, Generative AI và Agentic AI.
 
-- Các nhà phát triển phải là chủ sở hữu và xác thực tất cả code do AI tạo ra
+Bên cạnh đó, tôi có cơ hội giao lưu với những người tham gia khác và các thành viên trong cộng đồng công nghệ tại địa phương.
 
-- Kiểm soát chất lượng là trách nhiệm của nhà phát triển
+---
 
-**Thách Thức với AI ở Quy Mô Lớn:**
+## 5. Nội dung chính tiếp thu
 
-- Vấn đề kiểm soát chất lượng khi tạo ra lượng code lớn
+### 5.1. Xu hướng Cloud và AI
 
-- Mất kiểm soát và hiểu biết về những gì AI đang làm
+Sự kiện cung cấp những thông tin tổng quan về những phát triển mới trong **Cloud Computing và Artificial Intelligence**.
 
-- Rủi ro phải khởi động lại dự án nếu chất lượng không được duy trì
+Tôi hiểu rõ hơn về cách công nghệ Cloud đang phát triển cùng với AI và cách các tổ chức sử dụng những công nghệ này để hiện đại hóa hệ thống, nâng cao năng suất và phát triển các giải pháp mới.
 
-- Sử dụng token quá mức trong các dự án lớn
+### 5.2. Agentic AI
 
-**Quy Trình AI DLC:**
+Một trong những chủ đề nổi bật của sự kiện là **Agentic AI**.
 
-- AI không nên đưa ra quyết định độc lập - các nhà phát triển đưa ra tất cả quyết định
+Tôi hiểu rằng AI Agent có thể thực hiện nhiều hơn việc tạo văn bản đơn thuần. Các AI Agent có thể tương tác với công cụ, sử dụng thông tin từ nhiều nguồn và hỗ trợ thực hiện các quy trình gồm nhiều bước.
 
-- Sử dụng AI để phân tích vấn đề, xem xét yêu cầu và tạo kế hoạch
+Điều này giúp tôi hiểu rõ hơn sự khác biệt giữa các ứng dụng Generative AI truyền thống và các hệ thống AI dựa trên Agent.
 
-- Lưu trữ kết quả trong các file Markdown để duy trì tính liên tục
+### 5.3. Generative AI trên AWS
 
-- Chia nhỏ các dự án lớn thành các đơn vị nhỏ hơn
+Sự kiện cung cấp thêm những kiến thức về cách các dịch vụ AWS hỗ trợ việc xây dựng và triển khai **các ứng dụng Generative AI**.
 
-- Xem xét và xác thực thường xuyên là điều cần thiết
+Tôi tìm hiểu thêm về vai trò của hạ tầng Cloud, các dịch vụ AI, dữ liệu và bảo mật trong quá trình xây dựng các ứng dụng sử dụng AI.
 
-- Sử dụng AI cho các tác vụ tiêu chuẩn hóa, xử lý các tác vụ suy nghĩ thủ công
+Những kiến thức này giúp tôi liên hệ những gì đã học trong chương trình FCAJ với các trường hợp ứng dụng thực tế trong ngành.
 
-**Thực Hành Tốt Nhất:**
+### 5.4. Builders x AI
 
-- Bắt đầu với các yêu cầu đơn giản và chia chúng thành các đơn vị
+Các phiên **Builders x AI** tập trung vào những chủ đề kỹ thuật liên quan đến việc xây dựng các ứng dụng AI hiện đại.
 
-- Sử dụng AI để nhóm các đơn vị quan trọng cho người dùng cuối
+Tôi hiểu thêm cách các developer và engineer có thể sử dụng AI để hỗ trợ quá trình phát triển phần mềm, xây dựng ứng dụng và cải thiện các quy trình vận hành.
 
-- Triển khai mỗi đơn vị như một dự án nhỏ
+Tôi cũng nhận ra rằng khi xây dựng các giải pháp AI cần quan tâm đến **khả năng mở rộng, bảo mật, độ tin cậy và khả năng bảo trì** của hệ thống.
 
-- Duy trì một track chung cho sự hợp tác backend và frontend
+### 5.5. Cloud và hiện đại hóa ứng dụng
 
-- Đối với các dự án lớn, hãy cân nhắc sử dụng Amazon Q thay vì các công cụ AI đơn giản
+Một chủ đề quan trọng khác là việc **hiện đại hóa các ứng dụng và hạ tầng hiện có**.
 
-#### Kiro - The AI IDE (bởi My Nguyễn)
+Tôi hiểu rằng các tổ chức có thể sử dụng Cloud và AI để cải thiện hệ thống hiện tại, hiện đại hóa ứng dụng, quản lý dữ liệu hiệu quả hơn và xây dựng các kiến trúc linh hoạt hơn.
 
-**Tổng Quan:**
+Điều này giúp tôi có góc nhìn rộng hơn về cách các công nghệ AWS được áp dụng trong môi trường doanh nghiệp thực tế.
 
-- Kiro là một IDE được hỗ trợ bởi AI được thiết kế cho phát triển từ prototype đến production
+### 5.6. Networking và cộng đồng công nghệ
 
-- Các điểm khác biệt chính giữa Kiro và VSCode đã được thảo luận
+Watch Party cũng tạo cơ hội để tôi kết nối với những người có cùng quan tâm đến Cloud và AI.
 
-- Tập trung vào việc tối ưu hóa quy trình phát triển từ ý tưởng đến triển khai
+Thông qua các cuộc trao đổi và networking, tôi có thêm nhiều góc nhìn về:
 
-**Tính Năng Quy Trình Chính:**
+- AWS Cloud
+- Artificial Intelligence
+- Generative AI
+- Agentic AI
+- Cơ hội nghề nghiệp trong lĩnh vực Cloud
+- Xu hướng công nghệ
+- Ứng dụng thực tế của AI
 
-- **Role Separation**: Tiến trình Business → Architecture → Implementation
+Hoạt động networking giúp tôi nhận ra rằng việc học hỏi từ cộng đồng công nghệ cũng quan trọng như việc tiếp thu kiến thức kỹ thuật.
 
-- **AI-Enhanced**: Mỗi vai trò có ngữ cảnh và khả năng AI chuyên biệt
+---
 
-- **Iterative**: Vòng lặp phản hồi trong mỗi giai đoạn
+## 6. Hình ảnh check-in rõ mặt chứng minh tham gia
 
-- **Template-Driven**: Đầu ra tiêu chuẩn hóa sử dụng các template AIDLC
+Hình ảnh dưới đây là hình ảnh check-in của tôi tại **AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City**, nhằm chứng minh việc tôi đã tham gia sự kiện.
 
-**Agent Hooks:**
+![AWS Cloud and AI Day - Check-in](/images/4-EventParticipated/4.2-Event2/aws-cloud-ai-day-checkin.jpg)
 
-- Ủy thác nhiệm vụ cho các AI agent kích hoạt trên các sự kiện như 'file save'
+> **Minh chứng tham gia:** Hình ảnh check-in thể hiện rõ khuôn mặt của tôi và bối cảnh của sự kiện, qua đó chứng minh việc tôi tham gia AWS Cloud and AI Day Watch Party tại Thành phố Hồ Chí Minh.
 
-- Các agent tự động thực thi trong nền dựa trên các prompt được định nghĩa trước của bạn
+---
 
-- Agent hooks giúp bạn mở rộng quy mô công việc bằng cách tạo tài liệu, unit test hoặc tối ưu hóa hiệu suất code
+## 7. Bài học rút ra và đóng góp cá nhân
 
-**Tối Đa Hóa Ngữ Nghĩa Mỗi Token:**
+### Bài học rút ra
 
-- AI không 'nghĩ bằng code' – nó lý luận bằng ý nghĩa
+Sau khi tham gia sự kiện, tôi rút ra được một số bài học quan trọng:
 
-- Đừng dump 10K dòng source; Thay vào đó, cung cấp các mô hình trung gian giàu ngữ nghĩa
+- **Cloud và AI có mối liên hệ ngày càng chặt chẽ:** Nền tảng Cloud cung cấp cơ sở hạ tầng và các dịch vụ cần thiết để phát triển và mở rộng các ứng dụng AI hiện đại.
+- **Agentic AI là một hướng phát triển đáng chú ý:** Các hệ thống AI ngày càng có khả năng hỗ trợ các tác vụ nhiều bước và tương tác với các công cụ, hệ thống bên ngoài.
+- **Ứng dụng thực tế rất quan trọng:** Việc học các khái niệm AI sẽ hiệu quả hơn khi được kết nối với các bài toán thực tế trong doanh nghiệp và kỹ thuật.
+- **Cần quan tâm đến bảo mật và khả năng mở rộng:** Khi xây dựng ứng dụng AI, không chỉ cần quan tâm đến mô hình AI mà còn phải xem xét hạ tầng, dữ liệu, bảo mật, chi phí và khả năng mở rộng.
+- **Cần liên tục học hỏi:** Công nghệ Cloud và AI phát triển rất nhanh, vì vậy developer cần thường xuyên cập nhật kiến thức và kỹ năng thực hành.
+- **Cộng đồng và networking rất quan trọng:** Kết nối với những người đang học tập và làm việc trong lĩnh vực công nghệ giúp tôi trao đổi kiến thức và có thêm những góc nhìn mới.
 
-- Cắt bỏ các artefact (ví dụ: user stories, component models) để trở nên ngữ nghĩa rõ ràng; không có phần thừa!
+### Đóng góp cá nhân
 
-- Nhớ tỷ lệ Tokens/Semantics
+Trong quá trình tham gia sự kiện, tôi đã chủ động:
 
-### Những Gì Học Được
+- Tham gia chương trình AWS Cloud and AI Day Watch Party.
+- Theo dõi các phiên technical session và keynote.
+- Ghi chú những nội dung quan trọng về Cloud và AI.
+- Tìm hiểu về Agentic AI và các ứng dụng Generative AI.
+- Trao đổi về các chủ đề công nghệ với những người tham gia khác.
+- Liên hệ nội dung của sự kiện với những kiến thức đã học trong chương trình FCAJ.
+- Tìm hiểu cách áp dụng Cloud và AI vào các dự án phần mềm trong tương lai.
 
-1. **AI như một Đối Tác, Không Phải Thay Thế:**
+Thông qua những hoạt động này, tôi có thể củng cố kiến thức về **AWS, Cloud Computing và AI**, đồng thời cải thiện khả năng học hỏi từ các sự kiện kỹ thuật và những cuộc trao đổi trong cộng đồng công nghệ.
 
-   - Xem AI như một đối tác hợp tác trong giải quyết vấn đề
+---
 
-   - Duy trì giám sát và quyền quyết định của con người
+## Kết luận
 
-   - Đảm bảo chất lượng vẫn là trách nhiệm của con người
+Tham gia **AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City** là một trải nghiệm có giá trị trong quá trình học tập và phát triển kiến thức về Cloud và AI của tôi.
 
-2. **Quy Trình AI Có Cấu Trúc:**
+Sự kiện giúp tôi tìm hiểu thêm về những phát triển mới trong **Cloud Computing, Generative AI và Agentic AI**, đồng thời tạo cơ hội tiếp cận các nội dung kỹ thuật và kết nối với cộng đồng AWS.
 
-   - Định nghĩa vai trò và trách nhiệm rõ ràng trong prompts
+Bài học quan trọng nhất tôi rút ra là việc xây dựng các giải pháp Cloud và AI hiệu quả cần kết hợp giữa **kiến thức kỹ thuật, kinh nghiệm thực hành, khả năng học hỏi liên tục, nhận thức về bảo mật và khả năng làm việc nhóm**.
 
-   - Sử dụng file Markdown để theo dõi tiến độ và duy trì ngữ cảnh
-
-   - Chia nhỏ các dự án phức tạp thành các đơn vị có thể quản lý
-
-   - Triển khai các chu kỳ xem xét thường xuyên
-
-3. **Kiểm Soát Chất Lượng:**
-
-   - Không bao giờ ủy thác hoàn toàn nhiệm vụ cho AI mà không xác thực
-
-   - Xem xét code và kế hoạch do AI tạo ra thường xuyên
-
-   - Xây dựng tài liệu (file Markdown) để tránh đi lệch hướng
-
-   - Sử dụng AI cho các tác vụ tiêu chuẩn hóa, không phải tư duy phản biện
-
-4. **Quản Lý Dự Án:**
-
-   - Bắt đầu với các yêu cầu đơn giản và thu hẹp phạm vi
-
-   - Sử dụng AI để nhóm các đơn vị quan trọng cho người dùng cuối
-
-   - Xử lý mỗi đơn vị như một dự án nhỏ riêng biệt
-
-   - Duy trì các kênh giao tiếp chung cho sự hợp tác nhóm
-
-5. **Lựa Chọn Công Cụ:**
-
-   - Đối với các dự án lớn, hãy cân nhắc các giải pháp doanh nghiệp như Amazon Q
-
-   - Các công cụ AI đơn giản phù hợp cho các tác vụ nhỏ, được xác định rõ
-
-   - Chọn công cụ dựa trên độ phức tạp và yêu cầu của dự án
-
-### Ứng Dụng Vào Công Việc
-
-1. **Triển Khai Phương Pháp Luận AI DLC:**
-
-   - Áp dụng cách tiếp cận có cấu trúc cho phát triển được hỗ trợ bởi AI
-
-   - Tạo tài liệu Markdown cho lập kế hoạch và theo dõi dự án
-
-   - Thiết lập quy trình làm việc rõ ràng cho sự hợp tác AI
-
-2. **Đảm Bảo Chất Lượng:**
-
-   - Luôn xem xét và xác thực code do AI tạo ra
-
-   - Triển khai các điểm kiểm tra thường xuyên trong quy trình phát triển
-
-   - Duy trì quyền sở hữu tất cả các sản phẩm giao hàng
-
-3. **Chia Nhỏ Dự Án:**
-
-   - Chia các dự án lớn thành các đơn vị nhỏ, có thể quản lý
-
-   - Sử dụng AI để giúp xác định và nhóm các thành phần quan trọng
-
-   - Theo dõi tiến độ bằng cách sử dụng checkbox trong tài liệu lập kế hoạch
-
-4. **Hợp Tác Nhóm:**
-
-   - Thiết lập các track chung cho các nhóm backend và frontend
-
-   - Sử dụng AI để tạo điều kiện giao tiếp và lập kế hoạch
-
-   - Duy trì tài liệu rõ ràng cho sự liên kết nhóm
-
-5. **Đánh Giá Công Cụ:**
-
-   - Đánh giá công cụ AI dựa trên nhu cầu dự án
-
-   - Cân nhắc các giải pháp doanh nghiệp cho các dự án quy mô lớn
-
-   - Sử dụng công cụ phù hợp cho các giai đoạn phát triển khác nhau
-
-### Trải nghiệm trong event
-
-Sự kiện cung cấp những hiểu biết có giá trị về việc áp dụng thực tế của AI trong phát triển phần mềm. Các diễn giả nhấn mạnh tầm quan trọng của việc duy trì kiểm soát và giám sát của con người trong khi tận dụng khả năng của AI. Cuộc thảo luận về phương pháp luận AI DLC đặc biệt mang tính giáo dục, cho thấy cách cấu trúc sự hợp tác AI một cách hiệu quả.
-
-Bài trình bày về Kiro đã cung cấp cái nhìn về các công cụ phát triển thế hệ tiếp theo tích hợp AI trực tiếp vào IDE, có khả năng tối ưu hóa quy trình phát triển từ prototype đến production.
-
-Bài học chính được học là AI nên nâng cao khả năng của nhà phát triển thay vì thay thế các quy trình tư duy phản biện và ra quyết định. Tích hợp AI thành công đòi hỏi lập kế hoạch cẩn thận, xem xét thường xuyên và duy trì quyền sở hữu rõ ràng của quy trình phát triển.
-
-#### Một số hình ảnh khi tham gia sự kiện
-
-![Key Workflow Features](/images/4-EventParticipated/4.2-Event2/key-workflow-features.jpg)
-
-![Agent Hooks](/images/4-EventParticipated/4.2-Event2/agent-hooks.jpg)
-
-![Maximize Semantics per Token](/images/4-EventParticipated/4.2-Event2/maximize-semantics.jpg)
-
-![AI-Driven Development Lifecycle](/images/4-EventParticipated/4.2-Event2/ai-dlc.jpg)
-
-> Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp em thay đổi cách tư duy về AI-driven development lifecycle và cách tích hợp hiệu quả các công cụ AI vào quy trình phát triển trong khi duy trì chất lượng và kiểm soát.
+Sự kiện cũng tạo động lực để tôi tiếp tục tìm hiểu các dịch vụ AWS và công nghệ AI, đồng thời áp dụng những kiến thức đã học vào các dự án trong tương lai.
