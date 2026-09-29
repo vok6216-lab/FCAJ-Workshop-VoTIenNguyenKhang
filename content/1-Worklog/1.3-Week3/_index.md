@@ -1,6 +1,6 @@
 ---
 title: "Week 3 Worklog"
-date: "2025-09-09"
+date: "2026-09-28"
 weight: 1
 chapter: false
 pre: " <b> 1.3. </b> "
@@ -15,11 +15,11 @@ pre: " <b> 1.3. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Meet and greet FCJ members <br> - Read and take notes on internship rules and regulations | 08/11/2025 | 08/11/2025 | |
-| 3 | - Overview of AWS and its service categories (Compute, Storage, Networking, Database, etc.) | 08/12/2025 | 08/12/2025 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Create AWS Free Tier account <br> - Learn AWS Management Console & AWS CLI <br> - **Hands-on:** account creation, install & configure AWS CLI | 08/13/2025 | 08/13/2025 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Deep dive into Amazon EC2 (Instance types, AMI, EBS, Key Pairs, Instance Store, User Data, Metadata, Pricing models, Auto Scaling, etc.) <br> - Related services: Lightsail, EFS, FSx, AWS MGN | 08/14/2025 | 08/16/2025 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 | - **Hands-on practice:** <br>&emsp; ∘ Launch EC2 instances <br>&emsp; ∘ Connect via SSH/RDP <br>&emsp; ∘ Attach EBS volume <br>&emsp; ∘ Create snapshots & custom AMIs | 08/15/2025 | 08/16/2025 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Meet and greet FCJ members <br> - Read and take notes on internship rules and regulations | 09/29/2026 | 09/29/2026 | |
+| 3 | - Overview of AWS and its service categories (Compute, Storage, Networking, Database, etc.) | 09/30/2026 | 09/30/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Create AWS Free Tier account <br> - Learn AWS Management Console & AWS CLI <br> - **Hands-on:** account creation, install & configure AWS CLI | 10/01/2026 | 10/01/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Deep dive into Amazon EC2 (Instance types, AMI, EBS, Key Pairs, Instance Store, User Data, Metadata, Pricing models, Auto Scaling, etc.) <br> - Related services: Lightsail, EFS, FSx, AWS MGN | 10/02/2026 | 10/02/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - **Hands-on practice:** <br>&emsp; ∘ Launch EC2 instances <br>&emsp; ∘ Connect via SSH/RDP <br>&emsp; ∘ Attach EBS volume <br>&emsp; ∘ Create snapshots & custom AMIs | 10/03/2026 | 10/03/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Week 3 Achievements:
@@ -65,5 +65,3 @@ Successfully completed 100% of the planned tasks with the following key takeaway
   * **AWS Application Migration Service (MGN)**: continuous replication for lift-and-shift migration and DR from on-premises/physical/virtual servers to AWS
 
 * Hands-on success: launched EC2 instances, connected via SSH/RDP, attached EBS volumes, created snapshots and custom AMIs.
-
-
