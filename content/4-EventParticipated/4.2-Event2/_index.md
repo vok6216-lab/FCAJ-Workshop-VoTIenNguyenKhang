@@ -1,229 +1,156 @@
 ---
 title: "Event 2"
-date: 2025-10-03
+date: 2026-09-29
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Summary Report: "AWS GenAI Builders Club"
+# AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City
 
-### Event Objectives
+## 1. Event Name
 
-The event aimed to explore AI-driven development lifecycle (AI DLC) and introduce modern AI-powered development tools, focusing on how AI is transforming software development practices and how developers can effectively integrate AI into their workflow.
+**AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City**
 
-### Speakers
+AWS Cloud and AI Day Hanoi 2026 is a major technology event focusing on Cloud Computing, Artificial Intelligence, Generative AI, and Agentic AI.
 
-1. **Toàn Huỳnh** - Senior Specialist SA (Solutions Architect)
+For participants in Ho Chi Minh City, the event was also organized as a **Watch Party at the AWS Office**, allowing local developers, cloud practitioners, and technology enthusiasts to watch the main sessions from Hanoi while participating in technical discussions and networking activities locally.
 
-   - Topic: AI-driven Development Lifecycle
+---
 
-2. **My Nguyễn** - Senior Prototyping Architect
+## 2. Time
 
-   - Topic: Kiro - The AI IDE for Prototype to Production
+- **Date:** September 29, 2026
+- **Time:** During the AWS Cloud and AI Day program
+- **Timezone:** GMT+7
 
-### Key Highlights
+The main AWS Cloud and AI Day event took place on Tuesday, September 29, 2026. The Ho Chi Minh City Watch Party was organized on the same day at the AWS Office. :contentReference[oaicite:1]{index=1}
 
-#### AI-Driven Development Lifecycle (by Toàn Huỳnh)
+---
 
-**AI Evolution in Software Development:**
+## 3. Location
 
-- 2023: AI helping developers write code faster
+- **Watch Party Venue:** AWS Office, Ho Chi Minh City
+- **City:** Ho Chi Minh City, Vietnam
+- **Main Event Venue:** JW Marriott Hotel Hanoi, Hanoi, Vietnam
 
-- 2024: AI generating larger pieces of code and answering faster
+The main event was hosted at JW Marriott Hotel Hanoi, while participants in Ho Chi Minh City could attend the dedicated Watch Party at the AWS Office. :contentReference[oaicite:2]{index=2}
 
-- 2025: AI completing development tasks end-to-end with human in the loop
+---
 
-**Key Principles:**
+## 4. Participation Role
 
-- AI DLC is not just a tool - it's a methodology
+I participated in the **AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City** as a **participant and learner in the First Cloud Journey (FCAJ) program**.
 
-- AI should be used for pair-programming, not as a standalone solution
+During the event, I attended the Watch Party at the AWS Office in Ho Chi Minh City, followed the live sessions from the main event in Hanoi, and learned from technical presentations about Cloud Computing, Generative AI, and Agentic AI.
 
-- Developers must remain the owner and validate all AI-generated code
+I also had the opportunity to interact with other participants and members of the local technology community.
 
-- Quality control is the developer's responsibility
+---
 
-**Challenges with AI at Scale:**
+## 5. Main Knowledge and Skills Gained
 
-- Quality control issues when generating large amounts of code
+### 5.1. Cloud and AI Trends
 
-- Loss of control and understanding of what AI is doing
+The event provided an overview of the latest developments in **Cloud Computing and Artificial Intelligence**.
 
-- Risk of having to restart projects if quality is not maintained
+I gained a better understanding of how cloud technologies are evolving together with AI and how organizations are using these technologies to modernize their systems, improve productivity, and develop new solutions.
 
-- Token overuse in large projects
+### 5.2. Agentic AI
 
-**AI DLC Workflow:**
+One of the major topics of the event was **Agentic AI**.
 
-- AI should not make decisions independently - developers make all decisions
+I learned that AI agents can go beyond simple text generation by interacting with tools, using information from different sources, and supporting multi-step workflows.
 
-- Use AI to analyze problems, review requirements, and create plans
+This helped me understand the difference between traditional Generative AI applications and more advanced agent-based systems.
 
-- Store results in Markdown files for continuity
+### 5.3. Generative AI on AWS
 
-- Break down large projects into smaller units
+The event provided insights into how AWS services can support the development and deployment of **Generative AI applications**.
 
-- Regular review and validation are essential
+I learned more about the role of cloud infrastructure, AI services, data, and security when building AI-powered applications.
 
-- Use AI for standardized tasks, handle thinking tasks manually
+These concepts helped me connect the AWS knowledge from my FCAJ learning journey with practical industry use cases.
 
-**Best Practices:**
+### 5.4. Builders x AI
 
-- Start with simple requirements and break them into units
+The **Builders x AI** sessions focused on technical topics related to building modern AI applications.
 
-- Use AI to group important units for end users
+The sessions helped me understand how developers and engineers can use AI to improve software development, application development, and operational workflows.
 
-- Implement each unit as a small project
+I also gained a better understanding of the importance of designing AI solutions with scalability, security, reliability, and maintainability in mind.
 
-- Maintain a shared track for backend and frontend collaboration
+### 5.5. Cloud and Application Modernization
 
-- For large projects, consider using Amazon Q instead of simple AI tools
+Another important topic was the modernization of existing applications and infrastructure.
 
-#### Kiro - The AI IDE (by My Nguyễn)
+I learned that organizations can use Cloud and AI technologies to improve existing systems, modernize applications, manage data more effectively, and create more flexible architectures.
 
-**Overview:**
+This gave me a broader perspective on how AWS technologies can be applied to real-world enterprise environments.
 
-- Kiro is an AI-powered IDE designed for prototype to production development
+### 5.6. Networking and Community
 
-- Key differences between Kiro and VSCode were discussed
+The Watch Party also provided an opportunity to connect with other people interested in Cloud and AI.
 
-- Focus on streamlining the development process from ideation to deployment
+Through discussions and networking, I gained additional perspectives about:
 
-**Key Workflow Features:**
+- AWS Cloud
+- Artificial Intelligence
+- Generative AI
+- Agentic AI
+- Cloud careers
+- Technology trends
+- Practical applications of AI
 
-- **Role Separation**: Business → Architecture → Implementation progression
+The networking experience helped me understand the importance of learning from both technical content and the wider technology community.
 
-- **AI-Enhanced**: Each role has specialized AI context and capabilities
+---
 
-- **Iterative**: Feedback loops within each stage
+## 6. Check-in Photo as Proof of Participation
 
-- **Template-Driven**: Standardized outputs using AIDLC templates
+The following photo is my check-in photo at the **AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City**, demonstrating my participation in the event.
 
-**Agent Hooks:**
+![AWS Cloud and AI Day - Check-in](/images/4-EventParticipated/4.2-Event2/aws-cloud-ai-day-checkin.jpg)
 
-- Delegate tasks to AI agents that trigger on events such as 'file save'
+> **Check-in Evidence:** The photo clearly shows my face and the event environment, providing evidence of my participation in the AWS Cloud and AI Day Watch Party in Ho Chi Minh City.
 
-- Agents autonomously execute in the background based on your pre-defined prompts
+---
 
-- Agent hooks help you scale your work by generating documentation, unit tests, or optimizing code performance
+## 7. Lessons Learned and Personal Contribution
 
-**Maximize Semantics per Token:**
+### Lessons Learned
 
-- AI doesn't 'think in code' – it reasons in meaning
+After participating in the event, I gained several important lessons:
 
-- Don't dump 10K lines of source; Instead feed semantic-rich intermediate models
+- **Cloud and AI are closely connected:** Cloud platforms provide the infrastructure and services required to develop and scale modern AI applications.
+- **Agentic AI is an important development direction:** AI systems can increasingly support multi-step tasks and interact with tools and external systems.
+- **Practical applications are important:** Learning AI concepts becomes more meaningful when they are connected to real-world business and technical problems.
+- **Security and scalability must be considered:** Building an AI application requires more than simply choosing an AI model. Infrastructure, data, security, cost, and scalability also need to be considered.
+- **Continuous learning is essential:** Cloud and AI technologies are developing rapidly, so developers need to continuously update their knowledge and practical skills.
+- **Community and networking matter:** Connecting with other technology learners and professionals provides opportunities to exchange knowledge and discover new perspectives.
 
-- Trim the artefacts (ex. user stories, component models) to be crisply semantic; no extras!
+### Personal Contribution
 
-- Remember the Tokens/Semantics Ratio
+During the event, I actively:
 
-### Key Takeaways
+- Participated in the AWS Cloud and AI Day Watch Party.
+- Listened to the technical sessions and keynote presentations.
+- Took notes on important Cloud and AI concepts.
+- Learned about Agentic AI and Generative AI applications.
+- Discussed technology topics with other participants.
+- Connected the event content with the knowledge gained from the FCAJ program.
+- Reflected on how Cloud and AI technologies could be applied to future software projects.
 
-1. **AI as a Partner, Not a Replacement:**
+Through these activities, I was able to strengthen my understanding of AWS, Cloud Computing, and AI while also improving my ability to learn from technical events and industry discussions.
 
-   - View AI as a collaborative partner in problem-solving
+---
 
-   - Maintain human oversight and decision-making authority
+## Conclusion
 
-   - Quality assurance remains a human responsibility
+Participating in the **AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City** was a valuable experience in my Cloud and AI learning journey.
 
-2. **Structured AI Workflow:**
+The event gave me an opportunity to learn about current developments in **Cloud Computing, Generative AI, and Agentic AI**, while also providing access to technical sessions and discussions from the wider AWS technology community.
 
-   - Define clear roles and responsibilities in prompts
+The most important lesson I gained is that successful Cloud and AI development requires a combination of **technical knowledge, practical experience, continuous learning, security awareness, and collaboration**.
 
-   - Use Markdown files to track progress and maintain context
-
-   - Break down complex projects into manageable units
-
-   - Implement regular review cycles
-
-3. **Quality Control:**
-
-   - Never fully delegate tasks to AI without validation
-
-   - Review AI-generated code and plans regularly
-
-   - Build documentation (Markdown files) to avoid going off track
-
-   - Use AI for standardized tasks, not critical thinking
-
-4. **Project Management:**
-
-   - Start with simple requirements and scope down
-
-   - Use AI to group important units for end users
-
-   - Treat each unit as a separate small project
-
-   - Maintain shared communication channels for team collaboration
-
-5. **Tool Selection:**
-
-   - For large projects, consider enterprise solutions like Amazon Q
-
-   - Simple AI tools are suitable for smaller, well-defined tasks
-
-   - Choose tools based on project complexity and requirements
-
-### Applying to Work
-
-1. **Implement AI DLC Methodology:**
-
-   - Adopt a structured approach to AI-assisted development
-
-   - Create Markdown documentation for project planning and tracking
-
-   - Establish clear workflows for AI collaboration
-
-2. **Quality Assurance:**
-
-   - Always review and validate AI-generated code
-
-   - Implement regular checkpoints in the development process
-
-   - Maintain ownership of all deliverables
-
-3. **Project Breakdown:**
-
-   - Break large projects into smaller, manageable units
-
-   - Use AI to help identify and group important components
-
-   - Track progress using checkboxes in planning documents
-
-4. **Team Collaboration:**
-
-   - Establish shared tracks for backend and frontend teams
-
-   - Use AI to facilitate communication and planning
-
-   - Maintain clear documentation for team alignment
-
-5. **Tool Evaluation:**
-
-   - Evaluate AI tools based on project needs
-
-   - Consider enterprise solutions for large-scale projects
-
-   - Use appropriate tools for different development phases
-
-### Event Experience
-
-The event provided valuable insights into the practical application of AI in software development. The speakers emphasized the importance of maintaining human control and oversight while leveraging AI capabilities. The discussion on AI DLC methodology was particularly enlightening, showing how to structure AI collaboration effectively.
-
-The presentation on Kiro offered a glimpse into next-generation development tools that integrate AI directly into the IDE, potentially streamlining the development process from prototype to production.
-
-The key lesson learned is that AI should enhance developer capabilities rather than replace critical thinking and decision-making processes. Successful AI integration requires careful planning, regular review, and maintaining clear ownership of the development process.
-
-#### Some event photos
-
-![Key Workflow Features](/images/4-EventParticipated/4.2-Event2/key-workflow-features.jpg)
-
-![Agent Hooks](/images/4-EventParticipated/4.2-Event2/agent-hooks.jpg)
-
-![Maximize Semantics per Token](/images/4-EventParticipated/4.2-Event2/maximize-semantics.jpg)
-
-![AI-Driven Development Lifecycle](/images/4-EventParticipated/4.2-Event2/ai-dlc.jpg)
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about AI-driven development lifecycle and how to effectively integrate AI tools into the development workflow while maintaining quality and control.
+This event also motivated me to continue exploring AWS services and AI technologies and apply what I have learned to future projects.
