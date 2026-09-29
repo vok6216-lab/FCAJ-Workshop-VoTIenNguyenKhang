@@ -1,105 +1,143 @@
-[---
+---
 
 title: "Event 1"
-date: 2026-14-09
+date: 2026-09-26
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ----------------------
 
-# Buildrathon Kickoff
+# Buildrathon Kickoff: Code the Future with CMC Global
 
 ## 1. Tên sự kiện
 
-**Buildrathon Kickoff**
+**Buildrathon Kickoff: Code the Future with CMC Global**
 
-Buildrathon Kickoff là sự kiện khởi động chương trình Buildrathon, nhằm giới thiệu tổng quan về chương trình, định hướng hoạt động, chủ đề thử thách và cách thức tham gia. Đây cũng là cơ hội để các thành viên làm quen với nhau, tìm hiểu mục tiêu của chương trình và chuẩn bị cho các hoạt động phát triển dự án trong những giai đoạn tiếp theo.
+Buildrathon Kickoff là sự kiện khởi động Buildrathon 2026, được tổ chức với sự tham gia của cộng đồng công nghệ, AWS và CMC Global. Sự kiện tập trung vào Cloud Computing, Generative AI, AI Agents và định hướng phát triển các giải pháp công nghệ thực tế trên nền tảng AWS.
 
 ---
 
 ## 2. Thời gian
 
-* **Thời gian:** [Điền thời gian diễn ra sự kiện]
-* **Ngày tham gia:** [Điền ngày]
+* **Ngày:** 26/09/2026
+* **Thời gian:** 09:00 – 12:00
+* **Múi giờ:** GMT+7
+
+Sự kiện diễn ra vào thứ Bảy, ngày 26/09/2026.
 
 ---
 
 ## 3. Địa điểm
 
-* **Địa điểm:** [Điền địa điểm tổ chức]
-* **Hình thức:** [Offline / Online / Hybrid]
+* **Địa điểm:** Bitexco Financial Tower
+* **Địa chỉ:** 2 Đ. Hải Triều, Sài Gòn, Hồ Chí Minh 700000, Vietnam
+* **Tầng:** 26th Floor
+
+Đây là địa điểm được công bố trên trang sự kiện Luma.
 
 ---
 
 ## 4. Vai trò tham gia
 
-Tôi tham gia **Buildrathon Kickoff** với vai trò là **người tham gia / học viên** trong chương trình.
+Tôi tham gia **Buildrathon Kickoff** với vai trò là **học viên/người tham gia chương trình First Cloud Journey (FCAJ)**.
 
-Trong sự kiện, tôi tham gia các hoạt động giới thiệu chương trình, lắng nghe phần chia sẻ từ ban tổ chức và các diễn giả, tìm hiểu về mục tiêu, nội dung cũng như định hướng của Buildrathon.
+Trong sự kiện, tôi tham gia các hoạt động giới thiệu về Buildrathon, giao lưu với những người tham gia khác, lắng nghe các chia sẻ từ những người đang làm việc trong lĩnh vực Cloud và AI, đồng thời tìm hiểu về những yêu cầu và định hướng của Buildrathon 2026.
 
-Bên cạnh đó, tôi cũng có cơ hội giao lưu với các thành viên khác, trao đổi về ý tưởng và chuẩn bị cho quá trình tham gia các hoạt động tiếp theo của chương trình.
+Tôi cũng tham gia các hoạt động thực hành liên quan đến **AI Agent**, AWS Cloud và Generative AI, qua đó có cơ hội kết nối kiến thức đã học với các bài toán thực tế.
 
 ---
 
 ## 5. Nội dung chính tiếp thu
 
-### Tổng quan về Buildrathon
+### 5.1. Tổng quan về Buildrathon
 
-Thông qua buổi Kickoff, tôi hiểu rõ hơn về mục tiêu, cấu trúc và định hướng của chương trình Buildrathon. Sự kiện giúp tôi có cái nhìn tổng quan về những hoạt động sẽ được triển khai cũng như những yêu cầu cần chuẩn bị trong quá trình tham gia.
+Phần Kickoff giới thiệu về **Buildrathon Challenge**, mục tiêu của chương trình và các tiêu chí đánh giá. Tôi hiểu rõ hơn về định hướng của Buildrathon và cách một ý tưởng công nghệ có thể được phát triển thành một giải pháp thực tế.
 
-### Định hướng phát triển dự án
+### 5.2. AWS Cloud và Generative AI
 
-Một trong những nội dung quan trọng tôi tiếp thu được là cách tiếp cận một bài toán từ **ý tưởng đến sản phẩm**. Việc xác định vấn đề thực tế, phân tích nhu cầu người dùng và xây dựng giải pháp phù hợp là những bước quan trọng trước khi bắt đầu phát triển sản phẩm.
+Sự kiện cung cấp kiến thức tổng quan về **AWS Cloud, Generative AI và AI Agents**. Tôi hiểu thêm cách các dịch vụ AWS có thể được sử dụng để xây dựng những ứng dụng AI hiện đại.
 
-### Làm việc nhóm
+### 5.3. Building a Career in Cloud & AI
 
-Sự kiện cũng nhấn mạnh tầm quan trọng của việc **teamwork** trong các dự án công nghệ. Mỗi thành viên cần có trách nhiệm rõ ràng, chủ động trao đổi thông tin và phối hợp với các thành viên khác để đạt được mục tiêu chung.
+Phần Talkshow **"Building a Career in Cloud & AI"** giúp tôi hiểu thêm về xu hướng Cloud Computing, AI, các dự án thực tế và cơ hội nghề nghiệp trong lĩnh vực công nghệ.
 
-### Công nghệ và đổi mới
+Các diễn giả cũng chia sẻ cách doanh nghiệp đang ứng dụng AWS và Agentic AI để giải quyết các bài toán kinh doanh và thúc đẩy đổi mới.
 
-Tôi có thêm góc nhìn về việc sử dụng các công nghệ hiện đại để giải quyết các bài toán thực tế. Đặc biệt, việc kết hợp giữa **cloud computing, AI và các công cụ phát triển phần mềm** có thể hỗ trợ quá trình xây dựng và triển khai sản phẩm hiệu quả hơn.
+### 5.4. Q&A Session
 
-### Tư duy giải quyết vấn đề
+Phần Q&A tạo cơ hội để người tham gia đặt câu hỏi về:
 
-Buildrathon Kickoff giúp tôi nhận ra rằng việc phát triển một sản phẩm không chỉ tập trung vào công nghệ mà cần bắt đầu từ **vấn đề thực tế**. Một giải pháp tốt cần cân bằng giữa nhu cầu người dùng, tính khả thi về kỹ thuật và khả năng triển khai thực tế.
+* AWS Cloud
+* Generative AI
+* AI Agents
+* AWS Certifications
+* Định hướng nghề nghiệp
+* Buildathon Challenge
+
+Qua phần trao đổi, tôi có thêm góc nhìn thực tế từ những người có kinh nghiệm trong ngành.
+
+### 5.5. Hands-on – AI Agent Challenge
+
+Một nội dung đáng chú ý của sự kiện là hoạt động **AI Agent Challenge**.
+
+Tôi được tiếp cận với các khái niệm:
+
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* Knowledge Bases
+* AI Agents
+* Sử dụng AWS Services để xây dựng giải pháp AI
+
+Hoạt động thực hành giúp tôi hiểu rõ hơn cách chuyển kiến thức về Generative AI thành một giải pháp có khả năng ứng dụng thực tế.
+
+### 5.6. Mock Interview
+
+Sự kiện còn có hoạt động **Mock Interview** dành cho các vị trí như Cloud Engineer, DevOps, Data Engineer và Solution Architect.
+
+Thông qua hoạt động này, người tham gia có thể rèn luyện kiến thức kỹ thuật, kỹ năng giao tiếp, kiến thức AWS Fundamentals và khả năng chuẩn bị cho công việc trong lĩnh vực Cloud.
 
 ---
 
 ## 6. Hình ảnh check-in rõ mặt chứng minh tham gia
 
-Hình ảnh dưới đây là bằng chứng tôi tham gia sự kiện **Buildrathon Kickoff**.
+Hình ảnh dưới đây là bằng chứng tôi đã tham gia sự kiện **Buildrathon Kickoff: Code the Future with CMC Global**.
 
 ![Buildrathon Kickoff - Check-in](/images/4-EventParticipated/4.1-Event1/buildrathon-kickoff-checkin.jpg)
 
-> **Lưu ý:** Hình ảnh check-in cần thể hiện rõ khuôn mặt của tôi và có thể nhận biết được bối cảnh hoặc thông tin liên quan đến sự kiện Buildrathon Kickoff.
+> **Check-in:** Hình ảnh cần thể hiện rõ khuôn mặt của tôi và bối cảnh tại sự kiện để chứng minh việc tham gia trực tiếp.
 
 ---
 
-## 7. Bài học rút ra
+## 7. Bài học rút ra / Đóng góp cá nhân
+
+### Bài học rút ra
 
 Sau khi tham gia Buildrathon Kickoff, tôi rút ra một số bài học quan trọng:
 
-* **Bắt đầu từ vấn đề thực tế:** Trước khi lựa chọn công nghệ, cần xác định rõ vấn đề mà sản phẩm muốn giải quyết.
-* **Làm việc nhóm hiệu quả:** Phân chia nhiệm vụ rõ ràng và thường xuyên trao đổi giúp nhóm làm việc hiệu quả hơn.
-* **Chủ động học hỏi:** Các chương trình như Buildrathon tạo cơ hội để tôi tiếp cận những công nghệ và phương pháp phát triển sản phẩm mới.
-* **Tư duy sản phẩm:** Không chỉ quan tâm đến việc code, cần chú ý đến trải nghiệm người dùng, tính khả thi và giá trị mà sản phẩm mang lại.
-* **Quản lý thời gian:** Khi làm việc trong một chương trình có thời gian giới hạn, việc lập kế hoạch và ưu tiên công việc là rất quan trọng.
+* **Cloud và AI đang kết hợp ngày càng chặt chẽ:** AWS Cloud cung cấp nền tảng để triển khai các ứng dụng AI có khả năng mở rộng.
+* **AI Agent cần được xây dựng dựa trên bài toán thực tế:** Không chỉ sử dụng AI để tạo nội dung mà có thể xây dựng các hệ thống có khả năng hỗ trợ và tự động hóa quy trình.
+* **Thực hành quan trọng hơn việc chỉ học lý thuyết:** Hoạt động AI Agent Challenge giúp tôi hiểu rõ hơn cách áp dụng kiến thức vào một bài toán cụ thể.
+* **RAG và Knowledge Base:** Đây là những kiến thức quan trọng khi xây dựng các ứng dụng Generative AI có khả năng sử dụng dữ liệu và kiến thức riêng.
+* **Kỹ năng giao tiếp và teamwork:** Một dự án công nghệ không chỉ yêu cầu kỹ năng lập trình mà còn cần khả năng trao đổi, phối hợp và trình bày ý tưởng.
+* **Định hướng nghề nghiệp:** Tôi có thêm thông tin về các vị trí như Cloud Engineer, DevOps, Data Engineer và Solution Architect.
 
----
+### Đóng góp cá nhân
 
-## 8. Đóng góp cá nhân
+Trong quá trình tham gia sự kiện, tôi chủ động:
 
-Trong quá trình tham gia sự kiện, tôi chủ động lắng nghe các phần trình bày, ghi chú những nội dung quan trọng và trao đổi với các thành viên khác.
+* Tham gia đầy đủ các hoạt động của chương trình.
+* Lắng nghe và ghi chú các nội dung quan trọng về AWS Cloud và Generative AI.
+* Tham gia giao lưu và kết nối với các thành viên khác.
+* Tìm hiểu về AI Agent, Prompt Engineering, RAG và Knowledge Bases.
+* Tham gia các hoạt động thực hành và trao đổi trong chương trình.
+* Chia sẻ và thảo luận các ý tưởng liên quan đến việc ứng dụng Cloud và AI vào các bài toán thực tế.
 
-Tôi cũng đóng góp bằng cách chia sẻ ý tưởng, trao đổi về hướng phát triển dự án và tìm hiểu thêm về các công nghệ có thể áp dụng trong quá trình xây dựng sản phẩm.
-
-Thông qua hoạt động này, tôi có cơ hội cải thiện kỹ năng **teamwork, communication, problem-solving** và hiểu rõ hơn về quy trình biến một ý tưởng thành một sản phẩm công nghệ.
+Thông qua sự kiện, tôi có cơ hội áp dụng những kiến thức đã học trong chương trình FCAJ vào một môi trường thực tế hơn, đồng thời chuẩn bị tốt hơn cho các hoạt động tiếp theo của **Buildrathon 2026**.
 
 ---
 
 ## Kết luận
 
-Tham gia **Buildrathon Kickoff** giúp tôi có được cái nhìn tổng quan về chương trình cũng như hiểu rõ hơn về cách tiếp cận và phát triển một dự án công nghệ theo hướng thực tế.
+**Buildrathon Kickoff: Code the Future with CMC Global** là một sự kiện có ý nghĩa trong quá trình học tập và phát triển kỹ năng Cloud & AI của tôi. Sự kiện giúp tôi hiểu rõ hơn về Buildrathon 2026, AWS Cloud, Generative AI và AI Agents, đồng thời tạo cơ hội để tôi giao lưu với cộng đồng công nghệ.
 
-Đây cũng là cơ hội để tôi kết nối với những người có cùng mối quan tâm về công nghệ, rèn luyện khả năng làm việc nhóm và chuẩn bị tốt hơn cho các hoạt động tiếp theo của Buildrathon.
-](https://luma.com/8fe9vvps)
+Quan trọng hơn, tôi nhận ra rằng việc học Cloud và AI không nên chỉ dừng lại ở lý thuyết. Việc **thực hành, xây dựng sản phẩm, làm việc nhóm và giải quyết các bài toán thực tế** là những yếu tố quan trọng để phát triển kỹ năng và chuẩn bị cho công việc trong tương lai.
