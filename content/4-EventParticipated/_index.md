@@ -1,78 +1,41 @@
 ---
 title: "Events Participated"
-date: 2025-09-09
+date: 2026-09-29
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-> In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
-> 
-> Each event should be presented in the format Event 1, Event 2, Event 3…, along with the following details:
-> * Event name
-> * Date and time
-> * Location (if applicable)
-> * Your role in the event (attendence, event support, speaker, etc.)
-> * A brief description of the event's content and main activities
-> * Outcomes or value gained (lessons learned, new skills, contribution to the team/project)
-> * This listing helps demonstrate your actual participation as well as the soft skills and experience you have gained from each event.
+> In this section, I describe the events I participated in during my internship.
+>
+> Each event includes the event name, date and time, location, my participation role, the main activities, and the knowledge and experience I gained.
+>
+> These events provided opportunities to expand my technical knowledge, connect with the technology community, and develop my communication and learning skills.
 
-During my internship, I participated in five events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+During my internship, I have participated in two events so far. Each event provided valuable opportunities to learn about Cloud Computing, Artificial Intelligence, AWS technologies, and current trends in the technology industry.
 
-### [Event 1](4.1-Event1/)  
+### [Event 1](4.1-Event1/)
 
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+&emsp;**Event Name:** Buildrathon Kickoff: Code the Future with CMC Global
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+&emsp;**Date & Time:** September 26, 2026, 09:00 AM – 12:00 PM
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+&emsp;**Location:** 26th Floor, Bitexco Financial Tower, 2 Hai Trieu Street, Ho Chi Minh City
 
-&emsp;**Role:** Attendence  
+&emsp;**Role:** Participant
+
+&emsp;**Main Topics:** AWS Cloud, Generative AI, AI Agents, Buildrathon Challenge, and Cloud & AI career development
 
 ---
 
-### [Event 2](4.2-Event2/)  
+### [Event 2](4.2-Event2/)
 
-&emsp;**Event Name:** AWS GenAI Builders Club  
+&emsp;**Event Name:** AWS Cloud and AI Day Hanoi - Watch Party: Ho Chi Minh City
 
-&emsp;**Date & Time:** October 3, 2025  
+&emsp;**Date & Time:** September 29, 2026
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+&emsp;**Location:** AWS Office, Ho Chi Minh City
 
-&emsp;**Role:** Attendence  
+&emsp;**Role:** Participant
 
----
-
-### [Event 3](4.3-Event3/)  
-
-&emsp;**Event Name:** AWS Cloud Mastery Series #1  
-
-&emsp;**Date & Time:** November 15, 2025  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
-
-&emsp;**Role:** Attendence  
-
----
-
-### [Event 4](4.4-Event4/)  
-
-&emsp;**Event Name:** AWS Cloud Mastery Series #2  
-
-&emsp;**Date & Time:** November 17, 2025  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
-
-&emsp;**Role:** Attendence  
-
----
-
-### [Event 5](4.5-Event5/)  
-
-&emsp;**Event Name:** AWS Cloud Mastery Series #3  
-
-&emsp;**Date & Time:** November 29, 2025  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
-
-&emsp;**Role:** Attendence  
+&emsp;**Main Topics:** Cloud Computing, Generative AI, Agentic AI, AWS technologies, Cloud & AI trends, and AI applications
