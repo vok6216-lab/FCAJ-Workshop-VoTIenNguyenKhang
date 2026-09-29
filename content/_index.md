@@ -19,17 +19,17 @@ This portfolio brings together the learning notes, projects, and workshops of **
 
 &emsp; **Email:** vok6216@gmail.com
 
-&emsp; **University:** [University]
+&emsp; **University:** FPT University
 
-&emsp; **Major:** [Major]
+&emsp; **Major:** SE
 
-&emsp; **Class:** [Class or cohort]
+&emsp; **Class:** SE182151
 
-&emsp; **Company / Program:** [Company or program]
+&emsp; **Company / Program:** AWS
 
-&emsp; **Role:** [Role]
+&emsp; **Role:** Study
 
-&emsp; **Duration:** [Start date - end date]
+&emsp; **Duration:** 14/09/2026 - 14/12/2026
 
 <!-- Replace with your own image, for example: ![Profile Picture](/images/avatar.jpg) -->
 
