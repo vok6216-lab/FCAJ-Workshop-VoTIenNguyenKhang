@@ -19,17 +19,17 @@ Bản ghi này tổng hợp hành trình học tập, dự án và workshop củ
 
 &emsp; **Email:** vok6216@gmail.com
 
-&emsp; **Trường đại học:** [Trường đại học]
+&emsp; **Trường đại học:** FPT University
 
-&emsp; **Ngành học:** [Ngành học]
+&emsp; **Ngành học:** SE
 
-&emsp; **Lớp:** [Lớp hoặc cohort]
+&emsp; **Lớp:** SE182151
 
-&emsp; **Công ty / chương trình:** [Công ty / chương trình]
+&emsp; **Công ty / chương trình:** AWS
 
-&emsp; **Vị trí:** [Vai trò]
+&emsp; **Vị trí:** Study
 
-&emsp; **Thời gian:** [Ngày bắt đầu - ngày kết thúc]
+&emsp; **Thời gian:** 14/09/2026 - 14/12/2026
 
 <!-- Thay bằng ảnh của bạn, ví dụ: ![Ảnh đại diện](/images/avatar.jpg) -->
 
