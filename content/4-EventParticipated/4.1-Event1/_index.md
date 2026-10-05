@@ -98,7 +98,7 @@ This activity provided an opportunity to practice technical knowledge, communica
 
 The following photo is my check-in photo at **Buildrathon Kickoff: Code the Future with CMC Global**, demonstrating my participation in the event.
 
-![Buildrathon Kickoff - Check-in](/FCAJ-Workshop-VoTIenNguyenKhang/images/4.1-Event1/092fe6a9-f573-4661-8d31-d057d8d04111.jpg)
+![Buildrathon Kickoff - Check-in](../../../images/4.1-Event1/092fe6a9-f573-4661-8d31-d057d8d04111.jpg)
 
 > **Check-in Evidence:** The photo clearly shows my face and the event environment, providing evidence of my participation in the Buildrathon Kickoff event.
 
