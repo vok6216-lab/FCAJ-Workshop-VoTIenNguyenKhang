@@ -12,7 +12,7 @@ pre: " <b> 4. </b> "
 >
 > These events provided opportunities to expand my technical knowledge, connect with the technology community, and develop my communication and learning skills.
 
-During my internship, I have participated in two events so far. Each event provided valuable opportunities to learn about Cloud Computing, Artificial Intelligence, AWS technologies, and current trends in the technology industry.
+During my internship, I have participated in three events so far. Each event provided valuable opportunities to learn about Cloud Computing, Artificial Intelligence, AWS technologies, and current trends in the technology industry.
 
 ### [Event 1](4.1-Event1/)
 
@@ -39,3 +39,17 @@ During my internship, I have participated in two events so far. Each event provi
 &emsp;**Role:** Participant
 
 &emsp;**Main Topics:** Cloud Computing, Generative AI, Agentic AI, AWS technologies, Cloud & AI trends, and AI applications
+
+---
+
+### [Event 3](4.3-Event3/)
+
+&emsp;**Event Name:** Navigating the Future of Cloud & AI in Vietnam
+
+&emsp;**Date & Time:** October 2, 2026, 08:30 AM – 12:00 PM (GMT+7)
+
+&emsp;**Location:** Bitexco Financial Tower, 2 Hai Trieu Street, Ho Chi Minh City, Vietnam
+
+&emsp;**Role:** Participant
+
+&emsp;**Main Topics:** Cloud Computing, Distributed Systems, Operational Excellence, System Design, Artificial Intelligence, Renaissance Developer Mindset, and the Future of Software Engineering
