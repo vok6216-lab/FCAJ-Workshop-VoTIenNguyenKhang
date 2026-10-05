@@ -1,178 +1,279 @@
+
 ---
 title: "Event 3"
-date: 2025-11-15
+date: 2026-10-02
 weight: 3
 chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Summary Report: "AWS Cloud Mastery Series #1"
+# Navigating the Future of Cloud & AI in Vietnam
 
-### Event Objectives
+## 1. Event Name
 
-The event aimed to explore Generative AI (Gen AI) and its applications, focusing on foundation models, Amazon Bedrock, and how cloud technology can help organizations modernize their platforms while reducing costs compared to building new infrastructure from scratch.
+**Navigating the Future of Cloud & AI in Vietnam**
 
-### Speakers
+The event featured a keynote session by **Dr. Werner Vogels, Chief Technology Officer and Vice President at Amazon**, focusing on the future of cloud computing, artificial intelligence, operational excellence, and the evolution of software engineering in the age of AI.
 
-1. **Lâm Tuấn Kiệt** - Senior DevOps Engineer, FPT Software
+Drawing on his experience leading global infrastructure at Amazon and Amazon Web Services (AWS), Dr. Vogels shared insights into building reliable distributed systems, designing technology for large-scale operations, and developing the skills required to succeed in a rapidly changing technology industry.
 
-2. **Đặng Hoàng Hiếu Nghĩa** - AI Engineer, Renova Cloud
+The keynote also explored how AI is changing software development and why engineers must continue to develop systems thinking, technical ownership, curiosity, and effective communication skills.
 
-3. **Đinh Lê Hoàng Anh** - Cloud Engineer Trainee, First Cloud AI Journey
+## 2. Time
 
-### Key Highlights
+- **Date:** October 2, 2026
+- **Time:** 08:30 AM – 12:00 PM
+- **Timezone:** GMT+7
 
-#### The Challenge with Legacy Platforms
+The event was scheduled for Friday, October 2, 2026.
 
-- Current platforms are outdated and require modernization
+## 3. Location
 
-- Building new platforms from scratch requires high investment costs
+- **Venue:** Bitexco Financial Tower
+- **Address:** 2 Hai Trieu Street, Ho Chi Minh City, Vietnam
 
-- **Solution**: Leverage cloud technology and server infrastructure to reduce costs while modernizing
+The event brought together members of the technology community to explore developments in cloud computing and AI and learn from the experiences of an experienced technology leader.
 
-#### Understanding Generative AI (Gen AI)
+## 4. Participation Role
 
-**Definition:**
+I participated in **Navigating the Future of Cloud & AI in Vietnam** as a **participant and learner in the First Cloud AI Journey (FCAJ) program**.
 
-- Gen AI is the production of text or images based on input prompts
+Through the keynote session by Dr. Werner Vogels, I gained insights into the engineering principles behind large-scale cloud infrastructure, the importance of operational excellence, and the changing responsibilities of software developers in the age of AI.
 
-- It is a foundation model that can handle multiple tasks and is more generalized than traditional AI models
+As a Software Engineering student, I was particularly interested in how engineers can design reliable systems, make effective architectural decisions, and use AI tools without compromising software quality and security.
 
-**Key Characteristics:**
+The session also encouraged me to reflect on my own learning journey and identify the technical and professional skills I need to develop to prepare for future opportunities in software engineering and cloud computing.
 
-- Foundation models are versatile and can be applied to various use cases
+## 5. Main Knowledge and Skills Gained
 
-- More generalized approach compared to task-specific AI models
+### 5.1. Understanding System Design Through Real-World Failures
 
-- Can generate content (text, images) based on prompts
+One of the most interesting lessons from Dr. Werner Vogels was how real-world operational failures can influence major architectural decisions.
 
-#### Amazon Bedrock
+More than two decades ago, Amazon experienced a critical database failure during the peak holiday shopping season. A relational database cluster became overloaded, causing a major disruption to customer data storage and resulting in significant financial losses.
 
-**Overview:**
+This incident demonstrated that commercial software is not always suitable for every workload, especially when a system operates at an extremely large scale.
 
-- Amazon Bedrock is a fully managed service that makes foundation models from leading AI companies accessible via an API
+Engineers analyzed actual database usage patterns and discovered that many operations did not require the full capabilities of a traditional relational database:
 
-- It retrieves internal information along with user prompts to generate the most polished output
+- Approximately 70% of database workloads involved simple Key-Value queries.
+- Approximately 20% involved single, unlinked tables.
+- Only approximately 10% genuinely required relational database capabilities.
 
-**Key Features:**
+These findings helped motivate the development of distributed Key-Value storage technology that contributed to the foundations of Amazon Dynamo and DynamoDB.
 
-- Access to multiple foundation models through a single API
+The main lessons I gained include:
 
-- Retrieval of internal/private information
+- **Understand actual workloads:** System architecture should reflect real application requirements rather than assumptions.
+- **Choose appropriate technologies:** Different workloads require different data storage and processing approaches.
+- **Learn from failures:** Production incidents can reveal architectural weaknesses and opportunities for improvement.
+- **Design for scale:** Systems must be designed with their expected workload, growth, and reliability requirements in mind.
 
-- Integration with user prompts
+This example helped me understand that effective software engineering involves analyzing problems carefully and selecting solutions that fit the actual needs of a system.
 
-- Generation of high-quality, well-formatted outputs
+### 5.2. Four Pillars of Operational Excellence
 
-### Key Takeaways
+Operational excellence is essential for maintaining reliable services and delivering consistent user experiences.
 
-1. **Cloud Migration Strategy:**
+Dr. Vogels highlighted several engineering practices that Amazon uses to improve the reliability and resilience of large-scale infrastructure.
 
-   - Instead of investing heavily in new platform infrastructure, organizations can leverage cloud services
+**1. Measuring Performance at the 99.9th Percentile**
 
-   - Cloud technology offers cost-effective solutions for platform modernization
+Average response time alone does not provide a complete picture of application performance. It can hide slow requests that significantly affect some users.
 
-   - Server-based cloud infrastructure provides scalability and flexibility
+Engineers should monitor latency percentiles, including P99 and P99.9, to understand the experience of users at the slower end of the performance distribution.
 
-2. **Generative AI Fundamentals:**
+This approach helps identify performance bottlenecks and improve the overall quality of a service.
 
-   - Gen AI produces content (text/images) based on input prompts
+**2. Embracing "Everything Fails All the Time"**
 
-   - Foundation models are more versatile than traditional task-specific models
+Distributed systems must be designed with the expectation that individual components can fail.
 
-   - These models can handle multiple tasks with a generalized approach
+Important practices include:
 
-3. **Amazon Bedrock Benefits:**
+- Avoiding unnecessary single points of failure.
+- Designing appropriate redundancy and failover mechanisms.
+- Ensuring that failures in individual components do not automatically cause the entire application to become unavailable.
+- Testing recovery procedures under realistic conditions.
 
-   - Provides access to multiple foundation models through unified API
+This principle reinforces the importance of resilience when designing cloud-based applications.
 
-   - Can retrieve and utilize internal/private information
+**3. Institutionalizing GameDays**
 
-   - Generates polished, professional outputs by combining internal data with user prompts
+GameDays are controlled exercises used to test how systems respond to failures.
 
-   - Fully managed service reduces operational overhead
+Engineering teams deliberately simulate infrastructure problems to evaluate whether automated recovery and failover mechanisms work as expected.
 
-4. **Cost Optimization:**
+These exercises can help teams:
 
-   - Cloud migration can significantly reduce infrastructure costs
+- Identify weaknesses in system architecture.
+- Verify automated recovery procedures.
+- Reduce dependence on manual intervention.
+- Improve incident response and operational readiness.
+- Build confidence in system resilience.
 
-   - No need for large upfront investment in new platform development
+**4. Understanding the Cloud Pay-as-You-Go Model**
 
-   - Pay-as-you-go model provides financial flexibility
+Cloud computing changes how organizations acquire and manage computing resources.
 
-### Applying to Work
+Instead of committing to large infrastructure investments upfront, customers can use cloud services according to their requirements and usage.
 
-1. **Evaluate Cloud Migration Opportunities:**
+This model provides flexibility, but it also requires organizations to monitor resource consumption and optimize costs.
 
-   - Assess current legacy platforms and identify modernization needs
+The key lesson is that operational excellence involves not only technical reliability but also efficient resource management and the ability to deliver consistent value to customers.
 
-   - Compare costs of building new infrastructure vs. cloud migration
+### 5.3. Developing the Renaissance Developer Mindset
 
-   - Develop migration strategies leveraging cloud services
+One of the most valuable concepts introduced by Dr. Vogels was the idea of the **Renaissance Developer**.
 
-2. **Explore Gen AI Applications:**
+As AI tools become more capable of generating code, software engineers need to develop broader skills and take greater responsibility for the systems they build.
 
-   - Identify use cases where Gen AI can add value (content generation, automation)
+The Renaissance Developer mindset includes five essential characteristics.
 
-   - Understand foundation models and their capabilities
+**1. Curiosity and Continuous Learning**
 
-   - Experiment with prompt engineering for better outputs
+Technology changes constantly, with new programming languages, frameworks, cloud services, and AI tools emerging over time.
 
-3. **Leverage Amazon Bedrock:**
+Developers should maintain a habit of learning, experimenting, and improving their technical knowledge.
 
-   - Evaluate Amazon Bedrock for accessing foundation models
+**2. Systems Thinking**
 
-   - Integrate internal data sources with Bedrock for enhanced outputs
+Engineers should understand how individual components interact within a complete system.
 
-   - Develop workflows that combine internal information with AI-generated content
+Instead of focusing only on a single module, developers need to consider dependencies, data flows, performance, security, and the effects of architectural decisions across the application.
 
-4. **Cost-Benefit Analysis:**
+**3. Ownership**
 
-   - Conduct thorough cost analysis before platform modernization decisions
+AI can generate code, but engineers remain responsible for the software they deliver.
 
-   - Consider cloud solutions as alternatives to building from scratch
+This includes verifying correctness, identifying security vulnerabilities, handling edge cases, and maintaining architectural integrity.
 
-   - Factor in scalability and operational costs in decision-making
+**4. T-Shaped Expertise**
 
-### Event Experience
+A T-shaped developer combines deep expertise in a primary technical area with broad knowledge of related disciplines.
 
-The event provided valuable insights into the intersection of cloud technology and Generative AI. The speakers shared practical experiences from their respective roles, offering different perspectives on how organizations can leverage modern technologies.
+For example, a backend developer can benefit from understanding databases, user interfaces, infrastructure, security, and business requirements.
 
-#### Learning from Industry Experts
+This broader perspective helps engineers optimize complete workflows rather than individual components in isolation.
 
-- **DevOps Perspective**: Understanding infrastructure challenges and cloud migration strategies from a senior DevOps engineer
+**5. Communication Skills**
 
-- **AI Engineering View**: Deep dive into Gen AI and foundation models from an AI engineer's perspective
+Technical skills alone are not sufficient to solve every engineering problem.
 
-- **Trainee Insights**: Fresh perspective on cloud engineering and learning journey in the AI space
+Developers must communicate effectively with teammates and stakeholders, understand actual business requirements, and explain the trade-offs between alternative technical solutions.
 
-#### Technical Understanding
+These characteristics provide a useful framework for developing into a more capable and responsible software engineer.
 
-- Gained clarity on what Gen AI is and how it differs from traditional AI approaches
+### 5.4. Artificial Intelligence as a Tool for Software Development
 
-- Understood the concept of foundation models and their generalized capabilities
+The keynote explored how AI is changing software development and influencing the responsibilities of engineers.
 
-- Learned about Amazon Bedrock as a managed service for accessing AI models
+AI tools can significantly accelerate prototyping and help developers generate code, explore solutions, and automate repetitive tasks.
 
-- Recognized the importance of combining internal data with AI prompts for better outputs
+However, AI-generated code is not automatically correct, secure, efficient, or suitable for production.
 
-#### Business Value
+Important considerations include:
 
-- Realized that cloud migration can be a cost-effective alternative to building new platforms
+- **Code Quality:** Reviewing generated code for correctness, readability, and maintainability.
+- **Security:** Identifying vulnerabilities and ensuring that sensitive information is handled appropriately.
+- **Edge Cases:** Testing unexpected inputs, failure conditions, and unusual application states.
+- **Performance:** Evaluating resource usage and identifying inefficient implementations.
+- **Human Judgment:** Making architectural decisions that consider the complete system and its intended purpose.
 
-- Understood how Gen AI can be applied to generate content and automate tasks
+The keynote compared AI to an imprecise compiler that translates natural-language instructions into code. This comparison emphasizes that developers must carefully evaluate the results rather than blindly trusting generated output.
 
-- Learned about the practical applications of Amazon Bedrock in enterprise settings
+I learned that AI should be treated as a development assistant, not as a replacement for engineering judgment and professional responsibility.
 
-#### Some event photos
+### 5.5. Systems Thinking and End-to-End Problem-Solving
 
-![Prompting Techniques - Zero-Shot Prompting](/images/4-EventParticipated/4.3-Event3/prompting-techniques.jpg)
+Systems thinking involves understanding the relationships between different components and evaluating how decisions affect the entire system.
 
-![Amazon Rekognition](/images/4-EventParticipated/4.3-Event3/amazon-rekognition.jpg)
+For example, improving the performance of one service may not improve the overall application if the database, network, or another dependent service remains a bottleneck.
 
-![What is Prompt Engineering? – An Example](/images/4-EventParticipated/4.3-Event3/prompt-engineering-example.jpg)
+To apply systems thinking, engineers should:
 
-![RAG in Action](/images/4-EventParticipated/4.3-Event3/rag-in-action.jpg)
+- Understand the complete application architecture.
+- Identify dependencies between services and databases.
+- Trace data flows across different components.
+- Evaluate the effects of changes on performance, reliability, and security.
+- Consider trade-offs between cost, availability, and complexity.
+- Investigate root causes instead of addressing only visible symptoms.
 
-> Overall, the event successfully bridged the gap between cloud infrastructure and Generative AI, showing how organizations can modernize their platforms cost-effectively while leveraging cutting-edge AI capabilities through services like Amazon Bedrock.
+This approach is particularly relevant to cloud engineering, where applications often depend on multiple services and infrastructure components.
 
+It also helps developers make more informed decisions when designing, debugging, and maintaining complex software systems.
+
+### 5.6. Professional Responsibility and the Future of Software Engineering
+
+Dr. Vogels emphasized that the growing capabilities of AI do not eliminate the need for skilled software engineers.
+
+Although AI can automate many repetitive development tasks, engineers remain responsible for understanding problems, making decisions, and ensuring that systems operate correctly.
+
+Important professional principles include:
+
+- Taking ownership of the code and systems being developed.
+- Maintaining high standards for software quality and security.
+- Continuously learning new technologies and engineering practices.
+- Developing creativity, critical thinking, and problem-solving skills.
+- Communicating technical decisions clearly.
+- Challenging outdated assumptions and remaining open to better approaches.
+
+The keynote concluded with a reminder attributed to Rear Admiral Grace Hopper:
+
+"The most dangerous phrase in the language is, 'We've always done it this way.'"
+
+This message highlights the importance of questioning existing practices, embracing constructive change, and continuously searching for better solutions.
+
+## 6. Check-in Photo as Proof of Participation
+
+The following photo is intended to be my check-in photo at **Navigating the Future of Cloud & AI in Vietnam**, demonstrating my participation in the event.
+
+![Navigating the Future of Cloud and AI in Vietnam - Check-in](/images/4-EventParticipated/4.3-Event3/navigating-cloud-ai-checkin.jpg)
+
+> **Check-in Evidence:** Replace the sample image path with an actual check-in photo from the event. The image should accurately represent my participation and should only be used as evidence after it has been verified.
+
+## 7. Lessons Learned and Personal Contribution
+
+### Lessons Learned
+
+After studying the keynote content, I identified several important lessons for my development as a Software Engineering student participating in the FCAJ program.
+
+- **Architecture must reflect real workloads:** Engineers should analyze actual usage patterns before choosing databases, infrastructure, and system components.
+- **Reliability requires preparation:** Systems should be designed to tolerate failures, and recovery mechanisms should be tested regularly.
+- **Performance metrics matter:** Monitoring high-percentile latency can reveal problems that average response times fail to show.
+- **AI does not remove engineering responsibility:** Developers must validate AI-generated code for correctness, security, performance, and maintainability.
+- **Systems thinking improves decision-making:** Understanding how components interact helps engineers solve problems at the system level.
+- **Continuous learning is essential:** Developers need to keep improving their skills as cloud computing and AI technologies evolve.
+- **Communication is a technical advantage:** Understanding business requirements and explaining engineering trade-offs can lead to better solutions.
+- **Ownership distinguishes responsible engineers:** Developers must take responsibility for the behavior and quality of the systems they deliver.
+- **Innovation requires questioning assumptions:** Existing practices should be evaluated regularly to determine whether better solutions are available.
+
+### Personal Contribution
+
+Based on the knowledge gained from the keynote, I identified several ways to apply these lessons to my studies and future projects:
+
+- Review software architecture before selecting technologies for a project.
+- Explore AWS services and practice deploying applications on cloud infrastructure.
+- Learn how to monitor application performance using latency metrics and logs.
+- Practice designing applications with appropriate error handling and recovery mechanisms.
+- Use AI development tools to accelerate coding while manually reviewing and testing their output.
+- Improve my understanding of databases, backend development, networking, and cloud infrastructure.
+- Document technical decisions and explain the reasons behind architectural choices.
+- Continue researching new technologies and experimenting with practical solutions.
+- Apply systems thinking when debugging problems and evaluating changes to an application.
+
+Through these learning activities, I can connect the concepts discussed in the keynote with my FCAJ training and strengthen my preparation for future software engineering and cloud computing opportunities.
+
+## Conclusion
+
+**Navigating the Future of Cloud & AI in Vietnam** provided valuable insights into the engineering principles behind reliable cloud infrastructure and the evolving role of software developers in the age of AI.
+
+The keynote by Dr. Werner Vogels demonstrated the importance of learning from production failures, analyzing real workloads, measuring performance, preparing for infrastructure failures, and building systems that can operate reliably at scale.
+
+More importantly, the concept of the **Renaissance Developer** reinforced my understanding that successful software engineers need more than programming skills. They must develop systems thinking, ownership, curiosity, broad technical knowledge, and effective communication.
+
+AI can accelerate software development, but professional judgment, security awareness, and responsibility remain essential when delivering production-quality systems.
+
+As a Software Engineering student participating in the First Cloud AI Journey program, I can apply these lessons by strengthening my AWS knowledge, practicing system design, exploring AI development tools, and continuously improving my technical skills.
+
+Ultimately, **continuous learning, operational excellence, and responsible use of AI** are essential for becoming a capable software engineer who can build reliable, scalable, and practical solutions for real-world problems.
