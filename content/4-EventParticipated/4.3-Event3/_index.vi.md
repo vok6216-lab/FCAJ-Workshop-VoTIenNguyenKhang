@@ -1,5 +1,5 @@
 ---
-title: "Sự kiện 3"
+title: "Event 3"
 date: 2026-10-02
 weight: 3
 chapter: false
