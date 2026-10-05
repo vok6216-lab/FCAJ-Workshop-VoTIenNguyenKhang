@@ -102,7 +102,7 @@ Hoạt động này giúp người tham gia có cơ hội rèn luyện kiến th
 
 Hình ảnh dưới đây là hình ảnh check-in của tôi tại sự kiện **Buildrathon Kickoff: Code the Future with CMC Global**, nhằm chứng minh việc tôi đã tham gia sự kiện.
 
-![Buildrathon Kickoff - Check-in](/images/4-EventParticipated/4.1-Event1/buildrathon-kickoff-checkin.jpg)
+![Buildrathon Kickoff - Check-in](10930956-a8ff-45dd-ba5e-7b344140b40.jpg)
 
 > **Minh chứng tham gia:** Hình ảnh check-in thể hiện rõ khuôn mặt của tôi và bối cảnh của sự kiện, qua đó chứng minh việc tham gia Buildrathon Kickoff.
 
