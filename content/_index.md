@@ -7,7 +7,7 @@ chapter: false
 
 # FCJ Cloud Portfolio
 
-This portfolio brings together the learning notes, projects, and workshops of **Võ Tiến Nguyên Khang** in the **FCJ Cloud** program. Update the profile below and review the sample material in each section before publishing.
+This portfolio documents my learning journey, activities, technical knowledge, and practical experience during the **First Cloud Journey (FCJ)** program.
 
 ---
 
@@ -21,7 +21,7 @@ This portfolio brings together the learning notes, projects, and workshops of **
 
 &emsp; **University:** FPT University
 
-&emsp; **Major:** SE
+&emsp; **Major:** Software Engineering (SE)
 
 &emsp; **Class:** SE182151
 
@@ -30,8 +30,6 @@ This portfolio brings together the learning notes, projects, and workshops of **
 &emsp; **Role:** Study
 
 &emsp; **Duration:** 14/09/2026 - 14/12/2026
-
-<!-- Replace with your own image, for example: ![Profile Picture](/images/avatar.jpg) -->
 
 ---
 
@@ -47,5 +45,8 @@ This portfolio brings together the learning notes, projects, and workshops of **
 
 ---
 
-*Replace bracketed details and verify that you have permission to reuse all sample content and images before publishing.*
+### About This Portfolio
 
+This portfolio presents the knowledge, activities, and experiences I have gained throughout my FCJ learning journey. It includes my weekly worklogs, technical blogs, project proposal, participated events, workshop activities, self-evaluation, and feedback.
+
+The content is organized into separate sections to clearly demonstrate my learning progress and practical experience during the program.
