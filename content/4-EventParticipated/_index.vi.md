@@ -1,7 +1,7 @@
 ---
 title: "Các sự kiện đã tham gia"
 date: 2026-09-29
-weight: 4
+weight: 3
 chapter: false
 pre: " <b> 4. </b> "
 ---
