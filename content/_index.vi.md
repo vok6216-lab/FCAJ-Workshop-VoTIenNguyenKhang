@@ -7,7 +7,7 @@ chapter: false
 
 # Hồ sơ FCJ Cloud
 
-Bản ghi này tổng hợp hành trình học tập, dự án và workshop của **Võ Tiến Nguyên Khang** trong chương trình **FCJ Cloud**. Hãy cập nhật thông tin trong hồ sơ bên dưới và rà soát nội dung mẫu trong từng mục trước khi xuất bản.
+Hồ sơ này ghi lại quá trình học tập, các hoạt động, kiến thức kỹ thuật và kinh nghiệm thực tế của tôi trong chương trình **First Cloud Journey (FCJ)**.
 
 ---
 
@@ -19,19 +19,17 @@ Bản ghi này tổng hợp hành trình học tập, dự án và workshop củ
 
 &emsp; **Email:** vok6216@gmail.com
 
-&emsp; **Trường đại học:** FPT University
+&emsp; **Trường đại học:** Đại học FPT
 
-&emsp; **Ngành học:** SE
+&emsp; **Chuyên ngành:** Kỹ thuật phần mềm (SE)
 
 &emsp; **Lớp:** SE182151
 
-&emsp; **Công ty / chương trình:** AWS
+&emsp; **Công ty / Chương trình:** AWS
 
 &emsp; **Vị trí:** Study
 
 &emsp; **Thời gian:** 14/09/2026 - 14/12/2026
-
-<!-- Thay bằng ảnh của bạn, ví dụ: ![Ảnh đại diện](/images/avatar.jpg) -->
 
 ---
 
@@ -39,13 +37,16 @@ Bản ghi này tổng hợp hành trình học tập, dự án và workshop củ
 
 1. **[Worklog](1-Worklog/)** - Nhật ký học tập và công việc
 2. **[Proposal](2-Proposal/)** - Đề xuất dự án và giải pháp
-3. **[Blog đã dịch](3-BlogsTranslated/)** - Các bài viết kỹ thuật
-4. **[Sự kiện](4-EventParticipated/)** - Sự kiện và hoạt động cộng đồng
-5. **[Workshop](5-Workshop/)** - Bài thực hành kỹ thuật
-6. **[Tự đánh giá](6-Self-evaluation/)** - Tổng kết và định hướng
-7. **[Chia sẻ và phản hồi](7-Feedback/)** - Suy ngẫm và phản hồi
+3. **[Blogs đã dịch](3-BlogsTranslated/)** - Các bài viết kỹ thuật
+4. **[Sự kiện](4-EventParticipated/)** - Các sự kiện và hoạt động cộng đồng
+5. **[Workshop](5-Workshop/)** - Các bài thực hành kỹ thuật
+6. **[Tự đánh giá](6-Self-evaluation/)** - Nhìn lại quá trình học tập và định hướng phát triển
+7. **[Chia sẻ và phản hồi](7-Feedback/)** - Chia sẻ và phản hồi
 
 ---
 
-*Thay các thông tin trong ngoặc vuông và kiểm tra quyền sử dụng nội dung, hình ảnh trước khi công khai.*
+### Giới thiệu về hồ sơ
 
+Hồ sơ này trình bày những kiến thức, hoạt động và kinh nghiệm mà tôi đã tích lũy trong suốt quá trình tham gia chương trình FCJ. Nội dung bao gồm nhật ký học tập hàng tuần, các bài viết kỹ thuật, đề xuất dự án, những sự kiện đã tham gia, các hoạt động workshop, phần tự đánh giá và phản hồi.
+
+Các nội dung được sắp xếp thành từng phần riêng biệt nhằm thể hiện rõ quá trình học tập, sự tiến bộ và kinh nghiệm thực tế của tôi trong chương trình.
