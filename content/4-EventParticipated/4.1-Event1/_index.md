@@ -10,7 +10,7 @@ pre: " <b> 4.1. </b> "
 
 ## 1. Event Name
 
-**Buildrathon Kickoff: Code the Future with CMC Global**
+Buildrathon Kickoff: Code the Future with CMC Global
 
 Buildrathon Kickoff is the opening event of Buildrathon 2026, bringing together technology enthusiasts, AWS learners, and members of the technology community. The event focused on Cloud Computing, Generative AI, AI Agents, and the development of practical technology solutions using AWS.
 
@@ -32,7 +32,7 @@ The event was held in person at Bitexco Financial Tower.
 
 ## 4. Participation Role
 
-I participated in **Buildrathon Kickoff: Code the Future with CMC Global** as a **participant and learner in the First Cloud Journey (FCAJ) program**.
+I participated in Buildrathon Kickoff: Code the Future with CMC Global as a participant and learner in the First Cloud Journey (FCAJ) program.
 
 During the event, I attended the Buildrathon introduction sessions, listened to presentations and discussions from technology professionals, and learned more about Cloud Computing, Generative AI, AI Agents, and AWS technologies.
 
@@ -42,17 +42,17 @@ I also had the opportunity to connect with other participants, exchange ideas, a
 
 ### 5.1. Overview of Buildrathon
 
-The Kickoff session introduced the **Buildrathon Challenge**, its objectives, activities, and overall direction. I gained a clearer understanding of how a technology idea can be developed into a practical solution through a structured development process.
+The Kickoff session introduced the Buildrathon Challenge, its objectives, activities, and overall direction. I gained a clearer understanding of how a technology idea can be developed into a practical solution through a structured development process.
 
 ### 5.2. AWS Cloud and Generative AI
 
-The event provided an overview of **AWS Cloud, Generative AI, and AI Agents**. I learned more about how AWS services can be combined to develop modern AI-powered applications.
+The event provided an overview of AWS Cloud, Generative AI, and AI Agents. I learned more about how AWS services can be combined to develop modern AI-powered applications.
 
 These topics helped me understand the role of cloud infrastructure in supporting scalable and intelligent applications.
 
 ### 5.3. Building a Career in Cloud & AI
 
-The **"Building a Career in Cloud & AI"** session provided valuable insights into career opportunities and current trends in Cloud Computing and Artificial Intelligence.
+The "Building a Career in Cloud & AI" session provided valuable insights into career opportunities and current trends in Cloud Computing and Artificial Intelligence.
 
 The speakers shared practical perspectives on how companies are adopting AWS and AI technologies to solve business problems and improve their operations.
 
@@ -71,7 +71,7 @@ Through the discussion, I gained additional perspectives from experienced profes
 
 ### 5.5. AI Agent Challenge
 
-One of the most interesting activities was the **AI Agent Challenge**.
+One of the most interesting activities was the AI Agent Challenge.
 
 Through this activity, I was introduced to concepts such as:
 
@@ -85,7 +85,7 @@ The activity helped me better understand how Generative AI technologies can be a
 
 ### 5.6. Mock Interview
 
-The event also included a **Mock Interview** activity for technology-related positions such as:
+The event also included a Mock Interview activity for technology-related positions such as:
 
 - Cloud Engineer
 - DevOps Engineer
@@ -96,7 +96,7 @@ This activity provided an opportunity to practice technical knowledge, communica
 
 ## 6. Check-in Photo as Proof of Participation
 
-The following photo is my check-in photo at **Buildrathon Kickoff: Code the Future with CMC Global**, demonstrating my participation in the event.
+The following photo is my check-in photo at Buildrathon Kickoff: Code the Future with CMC Global, demonstrating my participation in the event.
 
 ![Buildrathon Kickoff - Check-in](10930956-a8ff-45dd-ba5e-7b344140b40.jpg)
 
@@ -108,12 +108,12 @@ The following photo is my check-in photo at **Buildrathon Kickoff: Code the Futu
 
 After participating in Buildrathon Kickoff, I gained several important lessons:
 
-- **Cloud and AI are becoming increasingly connected:** AWS Cloud provides the infrastructure needed to build and deploy scalable AI applications.
-- **AI Agents should solve practical problems:** AI can be used not only to generate content but also to build systems that assist users and automate workflows.
-- **Hands-on practice is essential:** The AI Agent Challenge helped me understand how theoretical knowledge can be applied to real-world scenarios.
-- **RAG and Knowledge Bases are important for Generative AI:** These technologies can help AI applications work with specific data and knowledge sources.
-- **Communication and teamwork are essential:** Technology projects require not only technical skills but also effective communication and collaboration.
-- **Career awareness:** I gained a better understanding of career opportunities in fields such as Cloud Engineering, DevOps, Data Engineering, and Solution Architecture.
+- Cloud and AI are becoming increasingly connected. AWS Cloud provides the infrastructure needed to build and deploy scalable AI applications.
+- AI Agents can be used to solve practical problems, automate workflows, and assist users.
+- Hands-on practice is important because it helps connect theoretical knowledge with real-world applications.
+- RAG and Knowledge Bases are useful when developing Generative AI applications that need to work with specific data sources.
+- Communication and teamwork are important parts of technology projects.
+- I gained a better understanding of career opportunities in fields such as Cloud Engineering, DevOps, Data Engineering, and Solution Architecture.
 
 ### Personal Contribution
 
@@ -130,6 +130,6 @@ Through these activities, I was able to connect the knowledge gained from the FC
 
 ## Conclusion
 
-**Buildrathon Kickoff: Code the Future with CMC Global** was a valuable learning experience during my Cloud and AI journey. The event helped me gain a better understanding of Buildrathon 2026, AWS Cloud, Generative AI, and AI Agents while also providing opportunities to connect with other members of the technology community.
+Buildrathon Kickoff: Code the Future with CMC Global was a valuable learning experience during my Cloud and AI journey. The event helped me gain a better understanding of Buildrathon 2026, AWS Cloud, Generative AI, and AI Agents while also providing opportunities to connect with other members of the technology community.
 
-More importantly, I realized that learning Cloud and AI should not be limited to theoretical knowledge. **Hands-on practice, product development, teamwork, communication, and solving real-world problems** are essential for developing practical skills and preparing for a future career in technology.
+More importantly, I realized that learning Cloud and AI should not be limited to theoretical knowledge. Hands-on practice, product development, teamwork, communication, and solving real-world problems are important for developing practical skills and preparing for a future career in technology.
